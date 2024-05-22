@@ -1,0 +1,260 @@
+{"premise": "Prece bija iepakota burbuļplēvē.", "choice1": "Tas bija trausls.", "choice2": "Tas bija mazs.", "question": "cēlonis", "label": 0, "idx": 0}
+{"premise": "Es iztukšoju kabatas.", "choice1": "Es paņēmu biļetes kvīti.", "choice2": "Es atradu ieroci.", "question": "sekas", "label": 0, "idx": 1}
+{"premise": "Mājā iebruka termīti.", "choice1": "Termīti pazuda no mājas.", "choice2": "Termīti noēda malku mājā.", "question": "sekas", "label": 1, "idx": 2}
+{"premise": "Ceļinieki sasniedza robežu.", "choice1": "Robežsargs pārbaudīja viņu pases.", "choice2": "Robežsargs viņus apsūdzēja kontrabandas pārvadāšanā.", "question": "sekas", "label": 0, "idx": 3}
+{"premise": "Birojs bija slēgts.", "choice1": "Bija brīvdienas.", "choice2": "Bija vasara.", "question": "cēlonis", "label": 0, "idx": 4}
+{"premise": "Meitenei pietrūka enerģijas.", "choice1": "Viņa spēlēja dambreti.", "choice2": "Viņa izmantoja lecamauklu.", "question": "cēlonis", "label": 1, "idx": 5}
+{"premise": "Sieviete zaudēja vietu rindā.", "choice1": "Rindā piestājās vēl citi cilvēki.", "choice2": "Viņa pameta rindu.", "question": "cēlonis", "label": 1, "idx": 6}
+{"premise": "Meitene ieknieba mazuļa degunā.", "choice1": "Mazulis nosiekaloja uz krūtīm.", "choice2": "Mazulis notraipīja autiņu.", "question": "cēlonis", "label": 1, "idx": 7}
+{"premise": "Grupa atskaņoja savu hitu dziesmu.", "choice1": "Klausītāji plaudēja līdzi mūzikai.", "choice2": "Publika pieklājīgi, klusām klausījās.", "question": "sekas", "label": 0, "idx": 8}
+{"premise": "Meitene vēlējās pateikties savai matemātikas skolotājai.", "choice1": "Meitene pēc skolas palika pēcstundās.", "choice2": "Meitene atnesa skolotājai ābolu.", "question": "sekas", "label": 1, "idx": 9}
+{"premise": "Jaunie kemperi jutās nobijušies.", "choice1": "Nometnes vadītājs pastāstīja viņiem spoku stāstu.", "choice2": "Viņi uz ugunskura grauzdēja zefīrus.", "question": "cēlonis", "label": 0, "idx": 10}
+{"premise": "Vīrietis atsita galvu.", "choice1": "Viņš apmaldījās domās.", "choice2": "Viņam ir smadzeņu satricinājums.", "question": "sekas", "label": 1, "idx": 11}
+{"premise": "Manis izrakstīto čeku nepieņēma.", "choice1": "Mans bankas konts bija tukšs.", "choice2": "Es nopelnīju algas pielikumu.", "question": "cēlonis", "label": 0, "idx": 12}
+{"premise": "Vīrieša e-pasta iesūtne bija pilna ar surogātpastu.", "choice1": "Viņš izdzēsa surogātpastu.", "choice2": "Viņš izsūtīja masveida e-pastu.", "question": "sekas", "label": 0, "idx": 13}
+{"premise": "Jūrnieks ievietots karantīnā.", "choice1": "Viņš bija pakļauts šai slimībai.", "choice2": "Viņš atveseļojās no slimības.", "question": "cēlonis", "label": 0, "idx": 14}
+{"premise": "Meitene iegaumēja kodu.", "choice1": "Viņa pie sevis to noskaitīja.", "choice2": "Viņa aizmirsa to pierakstīt.", "question": "cēlonis", "label": 0, "idx": 15}
+{"premise": "Es ielēju glāzē ūdeni.", "choice1": "Ūdens remdēja manas slāpes.", "choice2": "Glāze kļuva pilna.", "question": "sekas", "label": 1, "idx": 16}
+{"premise": "Vīrietis palika klusējam, kad draugs beidza runāt.", "choice1": "Viņš vēlējās piedāvāt draugam atbalstu.", "choice2": "Viņš domāja par drauga vārdiem.", "question": "cēlonis", "label": 1, "idx": 17}
+{"premise": "Avārija bija mana vaina.", "choice1": "Jutos vainīgs.", "choice2": "Es izvirzīju apsūdzību.", "question": "sekas", "label": 0, "idx": 18}
+{"premise": "Ķēde saplīsa.", "choice1": "Ķēde bija aptīta ap riepu.", "choice2": "Ķēdē bija pārrauts posms.", "question": "cēlonis", "label": 1, "idx": 19}
+{"premise": "Pāris nolēma panākt kompromisu.", "choice1": "Viņiem apnika strīdēties.", "choice2": "Viņi izvairījās apspriest problēmu.", "question": "cēlonis", "label": 0, "idx": 20}
+{"premise": "Sieviete nolēma kandidēt uz valsts amatpersonas amatu.", "choice1": "Viņa nolīga kampaņas vadītāju.", "choice2": "Viņa liecināja tiesā.", "question": "sekas", "label": 0, "idx": 21}
+{"premise": "Vīrietis paredzēja aukstu laiku ceļojumā.", "choice1": "Viņš ielika koferī siltu apģērbu.", "choice2": "Viņš ceļoja ar lielu koferi.", "question": "sekas", "label": 0, "idx": 22}
+{"premise": "Skolēns zināja atbildi uz jautājumu.", "choice1": "Viņš pacēla roku.", "choice2": "Viņš kļūdījās.", "question": "sekas", "label": 0, "idx": 23}
+{"premise": "Vīrieša acis asaroja.", "choice1": "Acīs nokļuva putekļi.", "choice2": "Viņš uzlika brilles.", "question": "cēlonis", "label": 0, "idx": 24}
+{"premise": "Spēlētājs uzvarēja piecās spēlēs pēc kārtas.", "choice1": "Pretinieks viņu apsūdzēja krāpšanā.", "choice2": "Pretiniecei kļuva viņas žēl.", "question": "sekas", "label": 0, "idx": 25}
+{"premise": "Skolotāja saplēsa skolēna pārbaudes darbu.", "choice1": "Viņa pieķēra skolēnu krāpjamies.", "choice2": "Skolēna atbildes bija nepareizas.", "question": "cēlonis", "label": 0, "idx": 26}
+{"premise": "Es pārtraucu runāt.", "choice1": "Es zaudēju balsi.", "choice2": "Man pietrūka elpas.", "question": "cēlonis", "label": 1, "idx": 27}
+{"premise": "Saldētā pārtika atkusa.", "choice1": "Es to ieliku mikroviļņu krāsnī.", "choice2": "Es to pārklāju ar pārtikas plēvi.", "question": "cēlonis", "label": 0, "idx": 28}
+{"premise": "Darbinieks izlikās esam slims.", "choice1": "Viņam bija vēdergraizes.", "choice2": "Viņš gribēja brīvu dienu.", "question": "cēlonis", "label": 1, "idx": 29}
+{"premise": "Meitene nokļuva baseinā.", "choice1": "Viņa skrēja uz baseina klāja.", "choice2": "Viņa nolēca no niršanas dēļa.", "question": "cēlonis", "label": 1, "idx": 30}
+{"premise": "Filmas biļetes izpārdotas.", "choice1": "Tā bija filmas pirmizrāde.", "choice2": "Filma saņēma sliktas atsauksmes.", "question": "cēlonis", "label": 0, "idx": 31}
+{"premise": "Vīrietis zaudēja svaru.", "choice1": "Cilvēki izolējās no viņa.", "choice2": "Cilvēki viņam izteica komplimentu.", "question": "sekas", "label": 1, "idx": 32}
+{"premise": "Uz meitenes rokas parādījās tulznas.", "choice1": "Viņa uzrakstīja vēstuli.", "choice2": "Viņa uzrāpās augšā pa virvi.", "question": "cēlonis", "label": 1, "idx": 33}
+{"premise": "Cirka izpildītājs žonglēja, braucot ar vienriteni.", "choice1": "Skatītāji pārsteigti uzgavilēja.", "choice2": "Akrobāts šūpojās no trapeces.", "question": "sekas", "label": 0, "idx": 34}
+{"premise": "Es zaudēju pacietību.", "choice1": "Draugs man lika gaidīt.", "choice2": "Mans draugs ieradās laikus.", "question": "cēlonis", "label": 0, "idx": 35}
+{"premise": "Karojošās valstis vēlējās mieru.", "choice1": "Viņi izstrādāja kodolieročus.", "choice2": "Viņi apsprieda līgumu.", "question": "sekas", "label": 1, "idx": 36}
+{"premise": "Vīrietis lietojis miega zāles.", "choice1": "Viņš kļuva miegains.", "choice2": "Viņam bija drudzis.", "question": "sekas", "label": 0, "idx": 37}
+{"premise": "Sieviete ietriecās dīvānā.", "choice1": "Dīvāna kāja nokrita.", "choice2": "Viņa sasita ceļgalu.", "question": "sekas", "label": 1, "idx": 38}
+{"premise": "Zēns saspieda balonu.", "choice1": "Gaisa balons uzsprāga.", "choice2": "Gaisa balons aizlidoja.", "question": "sekas", "label": 0, "idx": 39}
+{"premise": "Ceļotāji ieradās savā viesnīcas numurā.", "choice1": "Viņi izkravāja koferus.", "choice2": "Viņi devās uz lidostu.", "question": "sekas", "label": 0, "idx": 40}
+{"premise": "Iekodu persikā.", "choice1": "Persiks nobrāzās.", "choice2": "Izlija sula.", "question": "sekas", "label": 1, "idx": 41}
+{"premise": "Manas rokas kļuva lipīgas.", "choice1": "Es apēdu virtuli.", "choice2": "Es esmu kārumnieks.", "question": "cēlonis", "label": 0, "idx": 42}
+{"premise": "Es pagrūdu durvis.", "choice1": "Durvis atvērās.", "choice2": "Durvis aizslēdzās.", "question": "sekas", "label": 0, "idx": 43}
+{"premise": "Aktīvisti boikotēja produktus.", "choice1": "Produkti tika pārbaudīti kvalitātes nodrošināšanai.", "choice2": "Produkti tika ražoti, nodarbinot bērnus.", "question": "cēlonis", "label": 1, "idx": 44}
+{"premise": "Izurbu sienā caurumu.", "choice1": "No cauruma izlīda pele.", "choice2": "No cauruma izlidoja putekļi.", "question": "sekas", "label": 1, "idx": 45}
+{"premise": "Sieviete juta skaudību pret savu māsu.", "choice1": "Viņas māsa bija laimīga.", "choice2": "Viņas māsa izšķīrās.", "question": "cēlonis", "label": 0, "idx": 46}
+{"premise": "Es uzlēju uz krekla vīnu.", "choice1": "Es uzvilku priekšautu.", "choice2": " Es nomainīju kreklu.", "question": "sekas", "label": 1, "idx": 47}
+{"premise": "Kasiere atvēra kases aparātu.", "choice1": "Klients pārmeklēja savu maku.", "choice2": "Klients pasniedza viņai naudu.", "question": "cēlonis", "label": 1, "idx": 48}
+{"premise": "Ielu muzikants piesaistīja pūli.", "choice1": "Cilvēki deva sīknaudu.", "choice2": "Viņš lika pūlim izklīst.", "question": "sekas", "label": 0, "idx": 49}
+{"premise": "Mazais zēns raudāja pie aukles.", "choice1": "Viņam pietrūka vecāku.", "choice2": "Bija uzkodu laiks.", "question": "cēlonis", "label": 0, "idx": 50}
+{"premise": "Pilots radarā konstatēja vētru.", "choice1": "Pilots virzījās prom no vētras.", "choice2": "Pilots izlidoja cauri vētrai.", "question": "sekas", "label": 0, "idx": 51}
+{"premise": "No koka nobira lapas.", "choice1": "Lapas kļuva krāsainas.", "choice2": "Lapas sakrājās uz zemes.", "question": "sekas", "label": 1, "idx": 52}
+{"premise": "Zēns bija palaidnīgā noskaņojumā.", "choice1": "Viņš nolēma kopā ar māsu aizvadīt kāršu spēli.", "choice2": "Viņš nolēma izjokot māsu.", "question": "sekas", "label": 1, "idx": 53}
+{"premise": "Bērns sūdzējās, ka viņam vajag uz tualeti.", "choice1": "Tēvs iedeva viņam padzerties limonādi.", "choice2": "Tēvs apturēja automašīnu benzīntankā.", "question": "sekas", "label": 1, "idx": 54}
+{"premise": "Bērns akvārijā iebēra zivju barību.", "choice1": "Zivis izlēca no tvertnes.", "choice2": "Zivis peldēja uz ēdiena pusi.", "question": "sekas", "label": 1, "idx": 55}
+{"premise": "Sievietes politiskie uzskati mainījās.", "choice1": "Viņa nomainīja savu partijas piederību.", "choice2": "Viņa iesaistījās protesta akcijā.", "question": "sekas", "label": 0, "idx": 56}
+{"premise": "Vannas istabas izlietne bija aizsērējusi.", "choice1": "Ieslēdzu krānu.", "choice2": "Ielēju tajā drenāžas tīrītāju.", "question": "sekas", "label": 1, "idx": 57}
+{"premise": "Pasažieri izkāpa no vilciena.", "choice1": "Vilciens ieradās stacijā.", "choice2": "Vilciena svilpe atskanēja.", "question": "cēlonis", "label": 0, "idx": 58}
+{"premise": "Vīrietis piegludināja aploksnes mitro pārloku.", "choice1": "Viņš uzlika pastmarku uz aploksnes.", "choice2": "Viņš aizzīmogoja aploksni.", "question": "sekas", "label": 1, "idx": 59}
+{"premise": "Draugi zaudēja saikni.", "choice1": "Viņiem patika otra klātbūtne.", "choice2": "Viņi pārcēlās uz dažādām pilsētām.", "question": "cēlonis", "label": 1, "idx": 60}
+{"premise": "Grāmatvede nepareizi pārvaldīja uzņēmuma līdzekļus.", "choice1": "Viņa tika atlaista no amata.", "choice2": "Viņa devās dekrēta atvaļinājumā.", "question": "sekas", "label": 0, "idx": 61}
+{"premise": "Paskatījos pulkstenī.", "choice1": "Dzirdēju pulksteni tikšķam.", "choice2": "Es gribēju pārbaudīt laiku.", "question": "cēlonis", "label": 1, "idx": 62}
+{"premise": "Mana roka sažņaudzās.", "choice1": "Eseju rakstīju rokrakstā.", "choice2": "Mēs ar sievu sadevāmies rokās.", "question": "cēlonis", "label": 0, "idx": 63}
+{"premise": "Skrūve pievilkās.", "choice1": "Es nomainīju skrūvi.", "choice2": "Es pagriezu uzgriežņu atslēgu.", "question": "cēlonis", "label": 1, "idx": 64}
+{"premise": "Pāris parakstīja dzīvokļa nomas līgumu.", "choice1": "Pāris ievācās dzīvoklī.", "choice2": "Dzīvoklis tika pārņemts valsts īpašumā.", "question": "sekas", "label": 0, "idx": 65}
+{"premise": "Sieviete sēdēja ārpusē uz lieveņa.", "choice1": "Viņa gribēja vērot saulrietu.", "choice2": "Viņa domāja, ka redz zibeni.", "question": "cēlonis", "label": 0, "idx": 66}
+{"premise": "Vīrietis ūdenī bija glābšanas vestē.", "choice1": "Viņš nespēja peldēt.", "choice2": "Ūdens bija sekls.", "question": "cēlonis", "label": 0, "idx": 67}
+{"premise": "Sieviete pieļāva drukas kļūdu teksta apstrādes programmā.", "choice1": "Viņa izdzēsa dokumentu.", "choice2": "Viņa nospieda atpakaļatkāpes taustiņu.", "question": "sekas", "label": 1, "idx": 68}
+{"premise": "Meitene lielījās draugiem.", "choice1": "Viņa saņēma sliktu atzīmi.", "choice2": "Viņa uzvarēja konkursā.", "question": "cēlonis", "label": 1, "idx": 69}
+{"premise": "Zāliens bija dubļains.", "choice1": "Pa nakti lija.", "choice2": "Tas bija pilna ar nezālēm.", "question": "cēlonis", "label": 0, "idx": 70}
+{"premise": "Sieviete bija pārāk aizmigusi.", "choice1": "Viņa nakti pavadīja viesnīcā.", "choice2": "Viņa aizmirsa uzstādīt modinātāju.", "question": "cēlonis", "label": 1, "idx": 71}
+{"premise": "Vīrietis iesmērēja saules aizsargkrēmu.", "choice1": "Viņš sēdēja ēnā.", "choice2": "Viņš devās uz pludmali.", "question": "cēlonis", "label": 1, "idx": 72}
+{"premise": "Pētnieki teoriju pierādīja.", "choice1": "Pētnieki teoriju atsauca.", "choice2": "Cilvēki teoriju pieņēma.", "question": "sekas", "label": 1, "idx": 73}
+{"premise": "Spēles līdzjutēji ūjināja.", "choice1": "Spēle turpinājās papildlaikā.", "choice2": "Tiesnesis veica sliktu lēmumu.", "question": "cēlonis", "label": 1, "idx": 74}
+{"premise": "Es ievadīju slēdzenes kombināciju.", "choice1": "Es aizslēdzu slēdzeni.", "choice2": "Slēdzene atvērās.", "question": "sekas", "label": 1, "idx": 75}
+{"premise": "Pūļa reakcija saasinājās.", "choice1": "Tēvs pasniedza dēlam naudu.", "choice2": "Tēvs satvēra dēla roku.", "question": "sekas", "label": 1, "idx": 76}
+{"premise": "Sniegs aizšķērsoja piebraucamo ceļu.", "choice1": "Sniegu savācu sniega bumbā.", "choice2": "Izgrūdu sniegu prom.", "question": "sekas", "label": 1, "idx": 77}
+{"premise": "Cilvēki kajakā airēja.", "choice1": "Kajaks sasniedza krastu.", "choice2": "Kajakam trāpīja vilnis.", "question": "sekas", "label": 0, "idx": 78}
+{"premise": "Meitene zaudēja kontroli pār savu velosipēdu.", "choice1": "Viņa atlaida stūri.", "choice2": "Viņa ietriecās žogā.", "question": "sekas", "label": 1, "idx": 79}
+{"premise": "Ieslēdzu ventilatoru.", "choice1": "Uz manas ādas uzšļācās ūdens.", "choice2": "Jutu, kā plūst vēss gaiss.", "question": "sekas", "label": 1, "idx": 80}
+{"premise": "Sērfotāji atgriezās pludmalē.", "choice1": "Viņi bija izmirkuši.", "choice2": "Viņi ieraudzīja haizivi.", "question": "cēlonis", "label": 1, "idx": 81}
+{"premise": "Vannā ieliku drenāžas aizbāzni.", "choice1": "Ūdens iztecēja no vannas.", "choice2": "Ūdens šļācās uz grīdas.", "question": "sekas", "label": 0, "idx": 82}
+{"premise": "Vīrs jutās vainīgs par sievas krāpšanu.", "choice1": "Viņš viņu apsūdzēja neuzticībā.", "choice2": "Viņš atzinās neuzticībā.", "question": "sekas", "label": 1, "idx": 83}
+{"premise": "Tinte uz plakāta izsmērējās.", "choice1": "Gaidīju, kad tinte izžūs.", "choice2": "Uz plakāta izlēju ūdeni.", "question": "cēlonis", "label": 1, "idx": 84}
+{"premise": "Bērns pamodās kliedzot.", "choice1": "Viņam bija murgs.", "choice2": "Viņš apslapināja gultu.", "question": "cēlonis", "label": 0, "idx": 85}
+{"premise": "Zēns nolika kājas uz galda.", "choice1": "Tēvs apsēdās pie galda.", "choice2": "Tēvs viņu nobāra.", "question": "sekas", "label": 1, "idx": 86}
+{"premise": "Mans draugs pagrieza galvu uz manu pusi.", "choice1": "Es pasaucu viņu.", "choice2": "Es pamāju ar roku.", "question": "cēlonis", "label": 0, "idx": 87}
+{"premise": "Valdība apspieda pilsoņus.", "choice1": "Pilsoņi veica sacelšanos.", "choice2": "Pilsoņi pieteicās balsošanai.", "question": "sekas", "label": 0, "idx": 88}
+{"premise": "Zēns apmaldījās mežā.", "choice1": "Viņš salika telti.", "choice2": "Viņš meklēja palīdzību.", "question": "sekas", "label": 1, "idx": 89}
+{"premise": "Sieviete ceļojusi uz ārzemēm.", "choice1": "Viņa gribēja iemācīties zīmēt.", "choice2": "Viņa vēlējās uzzināt par citām kultūrām.", "question": "cēlonis", "label": 1, "idx": 90}
+{"premise": "Vīrietis bija greizsirdīgs uz savu kolēģi.", "choice1": "Viņa kolēģis saņēma paaugstinājumu amatā.", "choice2": "Viņa kolēģis strādāja līdz vēlam.", "question": "cēlonis", "label": 0, "idx": 91}
+{"premise": "Vīrietis bija liecinieks citplanētiešiem.", "choice1": "Viņš halucinēja.", "choice2": "Viņš meditēja.", "question": "cēlonis", "label": 0, "idx": 92}
+{"premise": "Vīrieša mati kļuva blondi.", "choice1": "Viņš tos balināja.", "choice2": "Viņš tajos ielika šampūnu.", "question": "cēlonis", "label": 0, "idx": 93}
+{"premise": "Mākslinieks radīja jaunu darbu.", "choice1": "Viņš kritizēja savu iepriekšējo darbu.", "choice2": "Viņš bija iedvesmots.", "question": "cēlonis", "label": 1, "idx": 94}
+{"premise": "Dēls devās prom no mājām.", "choice1": "Viņš tika atbrīvots no militārdienesta.", "choice2": "Viņš mācījās koledžā.", "question": "cēlonis", "label": 1, "idx": 95}
+{"premise": "Grāmatas izkrita no grāmatu skapja.", "choice1": "Plauktus klāja putekļi.", "choice2": "Grāmatu skapi satricināja zemestrīce.", "question": "cēlonis", "label": 1, "idx": 96}
+{"premise": "Elektrība manā mājā izslēdzās.", "choice1": "Es ieslēdzu gaismu.", "choice2": "Es atiestatīju drošinātāju.", "question": "sekas", "label": 1, "idx": 97}
+{"premise": "Braucām amerikāņu kalniņos.", "choice1": "Tas izskatījās biedējoši.", "choice2": "Tas izskatījās jautri.", "question": "cēlonis", "label": 1, "idx": 98}
+{"premise": "Pokorna maisiņš sāka sprakšķēt.", "choice1": "Ieliku maisiņā sviestu.", "choice2": "Es to uzkarsēju mikroviļņu krāsnī.", "question": "cēlonis", "label": 1, "idx": 99}
+{"premise": "Uz elektrolīnijas nogāzās koks.", "choice1": "Elektrība apkaimē pazuda.", "choice2": "Laika prognozē paredzēja stiprus vējus.", "question": "sekas", "label": 0, "idx": 100}
+{"premise": "Runātājs izteica politiski nekorektus komentārus.", "choice1": "Viņš garlaikoja publiku.", "choice2": "Viņš aizvainoja publiku.", "question": "sekas", "label": 1, "idx": 101}
+{"premise": "Es sadūros ar adatu.", "choice1": "Man no sejas pilēja sviedru lāse.", "choice2": "Man uz pirksta veidojās asins lāse.", "question": "sekas", "label": 1, "idx": 102}
+{"premise": "Zivs peldēja pa akvārija ūdens virsmu.", "choice1": "Tā bija izsalkusi.", "choice2": "Tā bija mirusi.", "question": "cēlonis", "label": 1, "idx": 103}
+{"premise": "Vīrieša balss izklausījās aizsmakusi.", "choice1": "Viņam bija saaukstējies.", "choice2": "Viņš atmeta smēķēšanu.", "question": "cēlonis", "label": 0, "idx": 104}
+{"premise": "Lifta durvis atvērās.", "choice1": "Lifts nonāca norādītajā stāvā.", "choice2": "Lifts iestrēga starp stāviem.", "question": "cēlonis", "label": 0, "idx": 105}
+{"premise": "Pusaudzis izlavījās no mājām.", "choice1": "Viņš meloja vecākiem.", "choice2": "Vecāki viņam liedza doties ārā no mājām.", "question": "cēlonis", "label": 1, "idx": 106}
+{"premise": "Vannasistaba applūda.", "choice1": "Tualete pārplūda.", "choice2": "Boileris salūza.", "question": "cēlonis", "label": 0, "idx": 107}
+{"premise": "Kucēns palika netālu no sava īpašnieka.", "choice1": "Īpašnieks kucēnam uzlika apkaklīti.", "choice2": "Īpašnieks kucēnu turēja pavadā.", "question": "cēlonis", "label": 1, "idx": 108}
+{"premise": "Vīrietis ieraudzīja savu atspulgu.", "choice1": "Viņš stāvēja zem kupla koka.", "choice2": "Viņš stāvēja pie rāma ezera.", "question": "cēlonis", "label": 1, "idx": 109}
+{"premise": "Man pietrūka draudzenes telefona sarunas.", "choice1": "Es viņai piezvanīju.", "choice2": "Es ar viņu pavakariņoju.", "question": "sekas", "label": 0, "idx": 110}
+{"premise": "Ģimene pārmeklēja apkārtni.", "choice1": "Viņu suns aizbēga no mājām.", "choice2": "Viņu mājās trūka dārgu rotaslietu.", "question": "cēlonis", "label": 0, "idx": 111}
+{"premise": "Kad izelpoju, ieraudzīju elpu.", "choice1": "Laiks bija vēss.", "choice2": "Krūtis sažņaudzās.", "question": "cēlonis", "label": 0, "idx": 112}
+{"premise": "Darbinieki izveidoja arodbiedrību.", "choice1": "Viņi vēlējās labākus darba apstākļus.", "choice2": "Viņu darba devējs paaugstināja algas.", "question": "cēlonis", "label": 0, "idx": 113}
+{"premise": "Cepu ābolu pīrāgu.", "choice1": "Virtuvē virmoja pūstoša smaka.", "choice2": "Virtuvi pildīja jauks aromāts.", "question": "sekas", "label": 1, "idx": 114}
+{"premise": "Sieviete cīnījās, lai ietu kājām.", "choice1": "Viņai bija augstpapēžu apavi.", "choice2": "Viņa novilka kurpes.", "question": "cēlonis", "label": 0, "idx": 115}
+{"premise": "No ūdens katla pacēlās tvaiks.", "choice1": "Ūdens vārījās.", "choice2": "Es uzliku vāku katlam.", "question": "cēlonis", "label": 0, "idx": 116}
+{"premise": "Visas manas zeķes bija netīras.", "choice1": "Man bija sandales.", "choice2": "Man kājās bija zābaki.", "question": "sekas", "label": 0, "idx": 117}
+{"premise": "Politiķa arguments tika uzskatīts par absurdu.", "choice1": "Viņš zaudēja vēlētāju atbalstu.", "choice2": "Viņu apsūdzēja korupcijā.", "question": "sekas", "label": 0, "idx": 118}
+{"premise": "Visi nosodīja pāra saderināšanos.", "choice1": "Pāris bija bērna gaidībās.", "choice2": "Pāris aizbēga.", "question": "sekas", "label": 1, "idx": 119}
+{"premise": "Ēka bija veltīta miljonāram.", "choice1": "Miljonārs vēlējās, lai ēka tiktu nojaukta.", "choice2": "Miljonārs ieguldīja līdzekļus tās būvniecībai.", "question": "cēlonis", "label": 1, "idx": 120}
+{"premise": "Pārdevēja meitenei pārmeta zagšanu.", "choice1": "Pārdevēja redzēja, kā meitene ieliek somiņā preci.", "choice2": "Pārdevēja palīdzēja meitenei atrast sev tīkamo somiņu.", "question": "cēlonis", "label": 0, "idx": 121}
+{"premise": "Valsts pieteica karu kaimiņvalstij.", "choice1": "Karavīri tika nosūtīti karā.", "choice2": "Karavīri tika atkal satikas ar savām ģimenēm.", "question": "sekas", "label": 0, "idx": 122}
+{"premise": "Tiesa strīdīgo spriedumu atstāja spēkā.", "choice1": "Tiesas nama priekšā izlauzās nekārtības.", "choice2": "Pāris tiesas nama priekšā apmainījās zvērestiem.", "question": "sekas", "label": 0, "idx": 123}
+{"premise": "Meitene saoda kaut ko degošu.", "choice1": "Viņa izņēma cepumus no burkas.", "choice2": "Viņa aizmirsa cepumus krāsnī.", "question": "cēlonis", "label": 1, "idx": 124}
+{"premise": "Lietus lija.", "choice1": "Vētra palielinājās.", "choice2": "Es metos iekšā.", "question": "sekas", "label": 1, "idx": 125}
+{"premise": "Ēka tika evakuēta.", "choice1": "Lifts pārstāja darboties.", "choice2": "Ugunsgrēka signalizācija iedarbojās.", "question": "cēlonis", "label": 1, "idx": 126}
+{"premise": "Tēvs apvainojās par dēla alkoholismu.", "choice1": "Tēvs dēlam nopircis alu.", "choice2": "Tēvs padzina dēlu no mājas.", "question": "sekas", "label": 1, "idx": 127}
+{"premise": "Advokāts uzkāpa uz viņas kabinetu.", "choice1": "Sekretāre bija devusies mājās.", "choice2": "Lifts nestrādāja.", "question": "cēlonis", "label": 1, "idx": 128}
+{"premise": "Vīrietis sadusmojās uz draugu.", "choice1": "Draugs viņu pārtrauca.", "choice2": "Draugs viņam nopirka pusdienas.", "question": "cēlonis", "label": 0, "idx": 129}
+{"premise": "Meitene pasniedza kasierei savu naudu.", "choice1": "Kasiere meitenei iedeva atlikumu.", "choice2": "Kasiere aizmirsa iedot meitenei čeku.", "question": "sekas", "label": 0, "idx": 130}
+{"premise": "Sieviete tika ievietota ratiņkrēslā.", "choice1": "Viņa bija paralizēta negadījumā.", "choice2": "Viņa slimnīcā nonāca nestuvēs.", "question": "cēlonis", "label": 0, "idx": 131}
+{"premise": "Pilsoņi pie savām mājām izkāra valsts karogu.", "choice1": "Valsts atzīmēja savu neatkarību.", "choice2": "Valsts saskārās ar ekonomiskām grūtībām.", "question": "cēlonis", "label": 0, "idx": 132}
+{"premise": "Komanda turnīrā zaudēja.", "choice1": "Viņi sarūgtināja savus fanus.", "choice2": "Viņi iedvesmoja savus fanus.", "question": "sekas", "label": 0, "idx": 133}
+{"premise": "Draugs norādīja, ka man zobos iesprūdis ēdiens.", "choice1": "Es jutos apmulsusi.", "choice2": "Jutos lepna.", "question": "sekas", "label": 0, "idx": 134}
+{"premise": "Zēns izkrita vēstures eksāmenā.", "choice1": "Mācību stundās viņš pievērsa uzmanību.", "choice2": "Viņš aizmirsa mācīties.", "question": "cēlonis", "label": 1, "idx": 135}
+{"premise": "Pilsētas centra ēka sagruva.", "choice1": "Pilsētā bija zemestrīce.", "choice2": "Noziedzības rādītāji pilsētā pieauga.", "question": "cēlonis", "label": 0, "idx": 136}
+{"premise": "Vīrieša draudzene izšķīrās no viņa.", "choice1": "Viņš lūdzās, lai viņa paņem viņu atpakaļ.", "choice2": "Viņa iepazīstināja viņu ar saviem vecākiem.", "question": "sekas", "label": 0, "idx": 137}
+{"premise": "Abi bērni vienlaikus pasniedzās, lai atgūtu bumbu.", "choice1": "Bumba aizripoja.", "choice2": "Viņu galvas sadūrās.", "question": "sekas", "label": 1, "idx": 138}
+{"premise": "Jenots izlaupīja atkritumu tvertni.", "choice1": "Atkritumu tvertnē bija kartons.", "choice2": "Atkritumu tvertnei nebija vāka.", "question": "cēlonis", "label": 1, "idx": 139}
+{"premise": "Zēns uzasināja zīmuli.", "choice1": "Tas bija lēts.", "choice2": "Tas bija truls.", "question": "cēlonis", "label": 1, "idx": 140}
+{"premise": "Kasiere sievietei atteica kompensāciju par kleitu.", "choice1": "Viņa pazaudēja čeku.", "choice2": "Kleita nederēja.", "question": "cēlonis", "label": 0, "idx": 141}
+{"premise": "Skrāpējums manā ādā bija dziļš.", "choice1": "Tas ātri sadzija.", "choice2": "Tas atstāja rētu.", "question": "sekas", "label": 1, "idx": 142}
+{"premise": "Vilciena pasažieri dīvaini skatījās uz vīrieti.", "choice1": "Viņš blenza zemē.", "choice2": "Viņš runāja pats ar sevi.", "question": "cēlonis", "label": 1, "idx": 143}
+{"premise": "Bērns atstāja drupačas uz grīdas.", "choice1": "Skudras rāpoja pie drupačām.", "choice2": "Bērns atlika maizi atpakaļ.", "question": "sekas", "label": 0, "idx": 144}
+{"premise": "Sieviete pasniedza māsai salveti.", "choice1": "Sievietes māsa sakrustoja rokas.", "choice2": "Sievietes māsa sāka raudāt.", "question": "cēlonis", "label": 1, "idx": 145}
+{"premise": "Vīrietis paņēma ledeni.", "choice1": "Viņa lūpas bija saplīsušas.", "choice2": "Viņš uztraucās par sliktu elpu.", "question": "cēlonis", "label": 1, "idx": 146}
+{"premise": "Pāris uz izrādi devās priekšlaicīgi.", "choice1": "Viņi paredzēja sastrēgumus ap teātri.", "choice2": "Viņi saņēma norādes, kā nokļūt uz teātri.", "question": "cēlonis", "label": 0, "idx": 147}
+{"premise": "Sieviete neaizgāja uz darbu, bet palika mājās.", "choice1": "Priekšnieks viņu slavēja.", "choice2": "Viņas kolēģis viņu piesedza.", "question": "sekas", "label": 1, "idx": 148}
+{"premise": "Vīrietis parakstījis aktīvistu petīciju.", "choice1": "Viņš atbalstīja to mērķi.", "choice2": "Viņš tos pasludināja par trakiem.", "question": "cēlonis", "label": 0, "idx": 149}
+{"premise": "Aktiera sirds trīcēja pirms uzstāšanās.", "choice1": "Viņam bija lampu drudzis.", "choice2": "Viņš atcerējās savu sakāmo.", "question": "cēlonis", "label": 0, "idx": 150}
+{"premise": "Es biju apmaldījies.", "choice1": "Es skaitīju savu skaidro naudu.", "choice2": "Es atlocīju karti.", "question": "sekas", "label": 1, "idx": 151}
+{"premise": "Gatavie augļi bija saulē.", "choice1": "Tos apēda.", "choice2": "Tie izžuva.", "question": "sekas", "label": 1, "idx": 152}
+{"premise": "Mašīna saplīsa.", "choice1": "Es pagriezu aizdedzi.", "choice2": "Motors pārkarsa.", "question": "cēlonis", "label": 1, "idx": 153}
+{"premise": "Vīrietis savainoja muguru.", "choice1": "Viņš devās pie psihiatra.", "choice2": "Viņš vairākas dienas palika gultā.", "question": "sekas", "label": 1, "idx": 154}
+{"premise": "Aizdedzināju ugunskuru kamīnā.", "choice1": "Man beidzās malka.", "choice2": "Mājā bija auksts.", "question": "cēlonis", "label": 1, "idx": 155}
+{"premise": "Sieviete pārstāja skriet.", "choice1": "Viņai sānos bija krampis.", "choice2": "Viņa ieguva otro elpu.", "question": "cēlonis", "label": 0, "idx": 156}
+{"premise": "Pieklauvēju pie kaimiņa durvīm.", "choice1": "Kaimiņiene mani ieaicināja iekšā.", "choice2": "Mana kaimiņiene pameta savu māju.", "question": "sekas", "label": 0, "idx": 157}
+{"premise": "Sieviete neapmierināta nopūtās.", "choice1": "Vīrs pārprata viņas bažas.", "choice2": "Vīrs viņu noskūpstīja uz atvadām.", "question": "cēlonis", "label": 0, "idx": 158}
+{"premise": "Skolotāja uzteica audzēkni.", "choice1": "Skolēns pareizi atbildēja uz jautājumu.", "choice2": "Skolēns vilcinājās atbildēt uz jautājumu.", "question": "cēlonis", "label": 0, "idx": 159}
+{"premise": "Sievietei pietrūka olu.", "choice1": "Viņa devās uz fermu.", "choice2": "Viņa devās uz lielveikalu.", "question": "sekas", "label": 1, "idx": 160}
+{"premise": "Es sastapos ar vecu draugu.", "choice1": "Es viņam atklāju noslēpumu.", "choice2": "Es viņu apskāvu.", "question": "sekas", "label": 1, "idx": 161}
+{"premise": "Sieviete izvairījās doties ezerā.", "choice1": "Viņa noķēra zivi.", "choice2": "Tas izskatījās piesārņots.", "question": "cēlonis", "label": 1, "idx": 162}
+{"premise": "Skolēns ieradās klasē izmircis.", "choice1": "Viņa lietussargs bija salauzts.", "choice2": "Viņa velosipēds ir nozagts.", "question": "cēlonis", "label": 0, "idx": 163}
+{"premise": "Datora ekrānā kursors pārvietojās.", "choice1": "Lietotājs noklikšķināja uz peles.", "choice2": "Lietotājs pabīdīja peli.", "question": "cēlonis", "label": 1, "idx": 164}
+{"premise": "Šoferis devās ekskursijā.", "choice1": "Uz galvenā ceļa notika negadījums.", "choice2": "Viņš sekoja kravas automašīnai sev priekšā.", "question": "cēlonis", "label": 0, "idx": 165}
+{"premise": "Piekāru slapjo veļu pie veļas auklas ārā.", "choice1": "Veļa izžuva.", "choice2": "Veļa notraipījās.", "question": "sekas", "label": 0, "idx": 166}
+{"premise": "Sieviete uzvilka saulesbrilles.", "choice1": "Saules gaisma bija spoža.", "choice2": "Viņa izsauca taksometru.", "question": "cēlonis", "label": 0, "idx": 167}
+{"premise": "Vīrietis raudzījās nakts debesīs.", "choice1": "Viņš vēlējās, kaut būtu vasara.", "choice2": "Viņš domāja, ka tas ir skaisti.", "question": "cēlonis", "label": 1, "idx": 168}
+{"premise": "Jutos pārgurusi.", "choice1": "Es agri gāju gulēt.", "choice2": "Es paliku nomodā visu nakti.", "question": "sekas", "label": 0, "idx": 169}
+{"premise": "Vīrietis devās pie bārddziņa.", "choice1": "Viņš audzēja matus.", "choice2": "Mati kļuva gari.", "question": "cēlonis", "label": 1, "idx": 170}
+{"premise": "Zēns savu jauno klasesbiedru ļauni izjokoja.", "choice1": "Zēns sveica jauno klasesbiedru.", "choice2": "Zēnam nepatika jaunais klasesbiedrs.", "question": "cēlonis", "label": 1, "idx": 171}
+{"premise": "Es alku glāzi piena.", "choice1": "Es ēdu cepumus.", "choice2": "Es cepu maizi.", "question": "cēlonis", "label": 0, "idx": 172}
+{"premise": "Sāka līt.", "choice1": "Šoferis ieslēdza tālās gaismas lukturus.", "choice2": "Šoferis mašīnu pārslēdza atpakaļgaitā.", "question": "sekas", "label": 0, "idx": 173}
+{"premise": "Ēkas stāvlaukums bija tukšs.", "choice1": "Es novietoju mašīnu ielas otrā pusē.", "choice2": "Novietoju mašīnu netālu no ieejas.", "question": "sekas", "label": 1, "idx": 174}
+{"premise": "Rakstniece nokavēja melnraksta iesniegšanas termiņu.", "choice1": "Viņai bija baltās lapas sindroms.", "choice2": "Viņa rediģēja melnrakstu.", "question": "cēlonis", "label": 0, "idx": 175}
+{"premise": "Līdzgaitnieks nelika mani mierā.", "choice1": "Es lūdzu runāt ar vadītāju.", "choice2": "Es norādīju savu identifikācijas numuru.", "question": "cēlonis", "label": 0, "idx": 176}
+{"premise": "Vējš pūta pa atvērto logu.", "choice1": "Atskanēja durvju zvans.", "choice2": "Aizkari nodrebēja.", "question": "sekas", "label": 1, "idx": 177}
+{"premise": "Elektrība manā mājā izslēdzās.", "choice1": "Es atvienoju lampu.", "choice2": "Es izsitu drošinātāju.", "question": "cēlonis", "label": 1, "idx": 178}
+{"premise": "Svarcēlājs noņurdēja.", "choice1": "Viņš sasprindzināja muskuļus spogulī.", "choice2": "Viņš pacēla stieni virs galvas.", "question": "cēlonis", "label": 1, "idx": 179}
+{"premise": "Skolēns centās veikt matemātikas aprēķinus galvā.", "choice1": "Viņš izvilka kalkulatoru.", "choice2": "Viņš apjuka.", "question": "sekas", "label": 1, "idx": 180}
+{"premise": "Mazulis aizmiga.", "choice1": "Tēvs nomainīja mazuļa autiņu.", "choice2": "Tēvs maigi šūpoja bērnu.", "question": "cēlonis", "label": 1, "idx": 181}
+{"premise": "Meitene uzmeta zēnam ūdens balonu.", "choice1": "Zēns guva satricinājumu.", "choice2": "Zēns piemirka.", "question": "sekas", "label": 1, "idx": 182}
+{"premise": "Fotogrāfs aizmirsa izmantot kameras zibspuldzi.", "choice1": "Fotogrāfijas bija izplūdušas.", "choice2": "Visi fotogrāfijās redzamie atteicās smaidīt.", "question": "sekas", "label": 0, "idx": 183}
+{"premise": "Es atteicos no uzaicinājuma uz dzimšanas dienas svinībām.", "choice1": "Es biju vientuļa.", "choice2": "Es biju ārpus pilsētas.", "question": "cēlonis", "label": 1, "idx": 184}
+{"premise": "Es sportoju.", "choice1": "Es jutos enerģiska.", "choice2": "Es biju nobijusies.", "question": "cēlonis", "label": 0, "idx": 185}
+{"premise": "Es saspiedu miklo sūkli.", "choice1": "Tas uzsūca ūdeni.", "choice2": "No tā sūcās ūdens.", "question": "sekas", "label": 1, "idx": 186}
+{"premise": "Atpūtnieki ar prāmi devās uz kūrortu.", "choice1": "Kūrorts bija rezervēts.", "choice2": "Kūrorts atradās uz salas.", "question": "cēlonis", "label": 1, "idx": 187}
+{"premise": "Pusaudzis tika pie tetovējuma.", "choice1": "Viņš baidījās no adatām.", "choice2": "Viņš gribēja sacelties.", "question": "cēlonis", "label": 1, "idx": 188}
+{"premise": "Pie manas mājas stāvēja nepazīstama mašīna.", "choice1": "Es kļuvu aizdomīgs.", "choice2": "Es izsaucu policiju.", "question": "sekas", "label": 0, "idx": 189}
+{"premise": "Noziedznieks pieteicās policijā.", "choice1": "Pierādījumi liecināja par viņa vainu.", "choice2": "Pret viņu nebija nekādu pierādījumu.", "question": "cēlonis", "label": 0, "idx": 190}
+{"premise": "Smags vīrs nolēma zaudēt svaru.", "choice1": "Viņš atteicās no saldumiem.", "choice2": "Viņš izvairījās no kofeīna.", "question": "sekas", "label": 0, "idx": 191}
+{"premise": "Meitene uzkāpa uz ledus.", "choice1": "Viņa paslīdēja.", "choice2": "Viņa nodrebēja.", "question": "sekas", "label": 0, "idx": 192}
+{"premise": "Sievietei zem acīm bija riņķi.", "choice1": "Viņa palika augšā visu nakti.", "choice2": "Viņa nolika dēlu gulēt.", "question": "cēlonis", "label": 0, "idx": 193}
+{"premise": "Lava plūda no vulkāna.", "choice1": "Vulkāns izvirda.", "choice2": "Vulkāns bija neaktīvs.", "question": "cēlonis", "label": 0, "idx": 194}
+{"premise": "Sieviete uzvilka kurpes.", "choice1": "Viņa pazina visus viesībās.", "choice2": "Viņa gribēja pamest ballīti.", "question": "cēlonis", "label": 1, "idx": 195}
+{"premise": "Samaksāju ceļas nodeva iekasētājam.", "choice1": "Viņš ļāva man iziet cauri.", "choice2": "Viņa manā aizturēja.", "question": "sekas", "label": 0, "idx": 196}
+{"premise": "Valdes loceklis bankrotēja.", "choice1": "Viņš pārdeva savas kompānijas akcijas.", "choice2": "Viņš izšķērdēja savu bagātību.", "question": "cēlonis", "label": 1, "idx": 197}
+{"premise": "Vīrietis devās pie ārsta.", "choice1": "Ārsts bija atvaļinājumā.", "choice2": "Vīrietis jutās slikti.", "question": "cēlonis", "label": 1, "idx": 198}
+{"premise": "Izkļuvu no guļamistabas pa logu.", "choice1": "Māja dega.", "choice2": "Māja bija tukša.", "question": "cēlonis", "label": 0, "idx": 199}
+{"premise": "Zēna pirksti kļuva sažņaugti.", "choice1": "Viņš ilgi bija dušā.", "choice2": "Viņš sazieda rokas ar ziepēm.", "question": "cēlonis", "label": 0, "idx": 200}
+{"premise": "Es izspļāvu pienu.", "choice1": "Piens bija skābs.", "choice2": "Mana mute bija sausa.", "question": "cēlonis", "label": 0, "idx": 201}
+{"premise": "Es nokavēju autobusu.", "choice1": "Es jau agri sāku strādāt.", "choice2": "Es kavēju darbu.", "question": "sekas", "label": 1, "idx": 202}
+{"premise": "Kravas automašīna sadūrās ar automašīnu.", "choice1": "Kravas automašīna palielināja ātrumu.", "choice2": "Mašīna tika sadauzīta.", "question": "sekas", "label": 1, "idx": 203}
+{"premise": "Komanda rīkoja konkursu sev par labu.", "choice1": "Viņi uzvarēja.", "choice2": "Viņi izstājās.", "question": "sekas", "label": 0, "idx": 204}
+{"premise": "Gāzētā dzēriena pudele šņāca.", "choice1": "Es apgriezu pudeli otrādi.", "choice2": "Es noņēmu vāciņu.", "question": "cēlonis", "label": 1, "idx": 205}
+{"premise": "Zēns nevarēja iekļūt mājās.", "choice1": "Viņš ielīda pa atvērtu logu.", "choice2": "Viņš uzkāpa uz jumta.", "question": "sekas", "label": 0, "idx": 206}
+{"premise": "Atskanēja durvju zvans.", "choice1": "Apmeklētājs pieklauvēja pie durvīm.", "choice2": "Sieviete ielūkojās durvju atslēgas caurumā.", "question": "sekas", "label": 1, "idx": 207}
+{"premise": "Vīrietis notraipīja uzvalku.", "choice1": "Viņš to notīrīja.", "choice2": "Viņš to nolika skapī.", "question": "sekas", "label": 0, "idx": 208}
+{"premise": "Meitene saspieda zobu pastas tūbiņu.", "choice1": "Zobu pasta izspiedās no tūbiņas.", "choice2": "Meitene izspļāva zobu pastu.", "question": "sekas", "label": 0, "idx": 209}
+{"premise": "Kara dēļ palielinājās civiliedzīvotāju nāves gadījumi.", "choice1": "Pacifisti rīkoja protestu.", "choice2": "Pacifisti rīkoja parādi.", "question": "sekas", "label": 0, "idx": 210}
+{"premise": "Meitene izrāva lenti no matiem.", "choice1": "Viņa piesēja lenti.", "choice2": "Lente izskatījās bērnišķīga.", "question": "cēlonis", "label": 1, "idx": 211}
+{"premise": "Vīrietim tika veikta plastiskā operācija.", "choice1": "Viņš izskatījās novecojis.", "choice2": "Viņš izskatījās jaunāks.", "question": "sekas", "label": 1, "idx": 212}
+{"premise": "No olas izlīda cālēns.", "choice1": "Ola izšķīlās.", "choice2": "Es saplēsu olu.", "question": "cēlonis", "label": 0, "idx": 213}
+{"premise": "Cietumnieks badojās.", "choice1": "Viņš nomira.", "choice2": "Viņš aizbēga.", "question": "sekas", "label": 0, "idx": 214}
+{"premise": "Vīrietis zaudēja līdzsvaru uz trepēm.", "choice1": "Viņš uzkāpa pa kāpnēm.", "choice2": "Viņš nokrita no kāpnēm.", "question": "sekas", "label": 1, "idx": 215}
+{"premise": "Bērns atraugājās.", "choice1": "Viņš iedzēra malku limonādes.", "choice2": "Viņš atvēra limonādes bundžu.", "question": "cēlonis", "label": 0, "idx": 216}
+{"premise": "Pa logu ienāca auksta brāzma.", "choice1": "Es atslābinājos.", "choice2": "Es nodrebēju.", "question": "sekas", "label": 1, "idx": 217}
+{"premise": "Students saņēma stipendiju koledžai.", "choice1": "Klasesbiedri viņu cienīja.", "choice2": "Viņš nopelnīja labas atzīmes.", "question": "cēlonis", "label": 1, "idx": 218}
+{"premise": "Meitene ķircināja zēnu.", "choice1": "Viņa dzīvoja viņam kaimiņos.", "choice2": "Viņa viņu sagrāba.", "question": "cēlonis", "label": 1, "idx": 219}
+{"premise": "Izsalkušais klaiņotājs nozaga pārtiku.", "choice1": "Viņš iedvesa žēlumu.", "choice2": "Viņam nebija naudas.", "question": "cēlonis", "label": 1, "idx": 220}
+{"premise": "Piezvanīju draugam, lai papļāpātu.", "choice1": "Es gribēju privātumu.", "choice2": "Jutos vientuļa.", "question": "cēlonis", "label": 1, "idx": 221}
+{"premise": "Vīrietis pastiepa roku.", "choice1": "Es paspiedu viņa roku.", "choice2": "Es viņam iesitu.", "question": "sekas", "label": 0, "idx": 222}
+{"premise": "Es pieliecos.", "choice1": "Gaisā sākās uguņošana.", "choice2": "Frisbijs lidoja uz manu galvu.", "question": "cēlonis", "label": 1, "idx": 223}
+{"premise": "Meitene grauza nagus.", "choice1": "Viņa bija noraizējusies.", "choice2": "Viņa bija pārsteigta.", "question": "cēlonis", "label": 0, "idx": 224}
+{"premise": "Es pāršķīru lapu kalendārā.", "choice1": "Kalendārā atzīmēju tikšanos.", "choice2": "Tas bija jauna mēneša sākums.", "question": "cēlonis", "label": 1, "idx": 225}
+{"premise": "Vīrs atklāja, ka sievai ir dēka.", "choice1": "Viņš atlaida savu advokātu.", "choice2": "Viņš iesniedza prasību par laulības šķiršanu.", "question": "sekas", "label": 1, "idx": 226}
+{"premise": "Meitene nometa gumijas bumbu.", "choice1": "Bumba atlēca.", "choice2": "Bumba iemirdzējās.", "question": "sekas", "label": 0, "idx": 227}
+{"premise": "Meitene pieļāva kļūdu eksāmenā.", "choice1": "Viņa minēja atbildi.", "choice2": "Viņa izdzēsa savu atbildi.", "question": "sekas", "label": 1, "idx": 228}
+{"premise": "Spēlētājs cīnījās pret pretinieku.", "choice1": "Pretinieks uztvēra caurgājienu.", "choice2": "Pretinieks atsitās pret zemi.", "question": "sekas", "label": 1, "idx": 229}
+{"premise": "Tomātus lasīju no vīnogulāja.", "choice1": "Tie bija gatavi.", "choice2": "Es tos aplaistīju.", "question": "cēlonis", "label": 0, "idx": 230}
+{"premise": "Vīrietis gribēja rīkoties romantiski.", "choice1": "Viņš satika bijušo draudzeni pusdienās.", "choice2": "Viņš nopirka savai draudzenei šokolādes konfektes.", "question": "sekas", "label": 1, "idx": 231}
+{"premise": "Termometrā pieauga dzīvsudraba stabiņš.", "choice1": "Es nometu termometru.", "choice2": "Laiks kļuva siltāks.", "question": "cēlonis", "label": 1, "idx": 232}
+{"premise": "Cauri pilsētai izgāja tornado.", "choice1": "Tiesas nama jumtu nopūta.", "choice2": "Šoseja kļuva bīstami apledojusi.", "question": "sekas", "label": 0, "idx": 233}
+{"premise": "Students saņēma konsultācijas.", "choice1": "Viņa atzīmes uzlabojās.", "choice2": "Viņš krāpās eksāmenā.", "question": "sekas", "label": 0, "idx": 234}
+{"premise": "Jutos ērti.", "choice1": "Es nometos ceļos uz zemes.", "choice2": "Ietinos segā.", "question": "cēlonis", "label": 1, "idx": 235}
+{"premise": "Es nospodrināju akmeni.", "choice1": "Tas kļuva slidens.", "choice2": "Tas kļuva spīdīgs.", "question": "sekas", "label": 1, "idx": 236}
+{"premise": "Kafijai pievienoju cukuru.", "choice1": "Kafija smaržoja spēcīgi.", "choice2": "Kafija garšoja saldi.", "question": "sekas", "label": 1, "idx": 237}
+{"premise": "Vīrietis pāršķirstīja papīrus.", "choice1": "Viņš sagriezās ar papīru.", "choice2": "Viņš sasmalcināja papīrus.", "question": "sekas", "label": 0, "idx": 238}
+{"premise": "Iesitu naglu ar āmuru.", "choice1": "Nagla iegrima kokā.", "choice2": "Nagla kļuva sarūsējusi.", "question": "sekas", "label": 0, "idx": 239}
+{"premise": "Zivs iekoda ēsmā.", "choice1": "Makšķernieks izvilka zivi.", "choice2": "Makšķernieks pārmeta pludiņu.", "question": "sekas", "label": 0, "idx": 240}
+{"premise": "Pusaudzis kautrējās iet skolā.", "choice1": "Viņai ir pūtīte.", "choice2": "Viņa noņēma breketes.", "question": "cēlonis", "label": 0, "idx": 241}
+{"premise": "Mana sejas izteiksme sāka starot.", "choice1": "Saņēmu labas ziņas.", "choice2": "Es zaudēju pacietību.", "question": "cēlonis", "label": 0, "idx": 242}
+{"premise": "Noslaucīju rokas ar dvieli.", "choice1": "Dvielis bija slapjš.", "choice2": "Manas rokas bija slapjas.", "question": "cēlonis", "label": 1, "idx": 243}
+{"premise": "Vīrietis zaudēja līdzsvaru uz ķebļa.", "choice1": "Ķeblītis grīļojās viņam apakšā.", "choice2": "Viņš izlēja krāsu uz ķebļa.", "question": "cēlonis", "label": 0, "idx": 244}
+{"premise": "Komandas biedri vainoja viens uz otru.", "choice1": "Viņi zaudēja spēli.", "choice2": "Viņu treneris atcēla treniņu.", "question": "cēlonis", "label": 0, "idx": 245}
+{"premise": "Es lūdzu piedošanu.", "choice1": "Es nožēloju savu kļūdu.", "choice2": "Es sasniedzu savu mērķi.", "question": "cēlonis", "label": 0, "idx": 246}
+{"premise": "Sievietei apnika randiņš.", "choice1": "Viņš uzdeva viņai jautājumus par sevi.", "choice2": "Viņš nemitīgi runāja par sevi.", "question": "cēlonis", "label": 1, "idx": 247}
+{"premise": "Meitene pasmaidīja.", "choice1": "Viņas vaigi piesarka.", "choice2": "Viņas vaigu bedrītes parādījās.", "question": "sekas", "label": 1, "idx": 248}
+{"premise": "Ienaidnieka kuģis uzsprāga.", "choice1": "Tas pārgāja pāri mīnai.", "choice2": "Tas iepeldēja ostā.", "question": "cēlonis", "label": 0, "idx": 249}
+{"premise": "Vīrietis sadūra kāju.", "choice1": "Viņš iekāpa peļķē.", "choice2": "Viņš uzkāpa uz stikla lauskām.", "question": "cēlonis", "label": 1, "idx": 250}
+{"premise": "Detektīvi nozieguma vietā meklēja pirkstu nospiedumus.", "choice1": "Viņi atklāja slepkavas identitāti.", "choice2": "Ieroci viņi atrada nozieguma vietā.", "question": "sekas", "label": 0, "idx": 251}
+{"premise": "Uz šosejas bija daudz satiksmes dalībnieku.", "choice1": "Es devos pa apkārtceļu.", "choice2": "Es lūdzu pavizināties.", "question": "sekas", "label": 0, "idx": 252}
+{"premise": "Nācijas ekonomika samazinājās.", "choice1": "Daudzi kļuva slimi.", "choice2": "Daudzi cilvēki saskārās ar bezdarbu.", "question": "sekas", "label": 1, "idx": 253}
+{"premise": "Krustojuma sargs uzsvilpa bērniem.", "choice1": "Viņi grasījās doties pretī braucošajā satiksmē.", "choice2": "Viņš tos atpazina no savas apkaimes.", "question": "cēlonis", "label": 0, "idx": 254}
+{"premise": "Es izbolīju acis uz draudzeni.", "choice1": "Viņš man pateica patiesību.", "choice2": "Viņš izteica sarkastisku piezīmi.", "question": "cēlonis", "label": 1, "idx": 255}
+{"premise": "Mašīnai beidzās degviela.", "choice1": "Šoferis bija iesprūdis uz ceļa.", "choice2": "Šoferis paņēma ceļa biedru.", "question": "sekas", "label": 0, "idx": 256}
+{"premise": "Sievietei sākās dzemdības.", "choice1": "Piedzima mazulis.", "choice2": "Sievietei bija slikta dūša.", "question": "sekas", "label": 0, "idx": 257}
+{"premise": "Vīrieša cepuri aizpūta.", "choice1": "Viņš noņēma cepuri.", "choice2": "Ārā bija vējains.", "question": "cēlonis", "label": 1, "idx": 258}
+{"premise": "Meitene apmeklēja klasesbiedrenes dzimšanas dienas ballīti.", "choice1": "Viņa saņēma uzaicinājumu.", "choice2": "Viņa nopirka dāvanu.", "question": "cēlonis", "label": 0, "idx": 259}
