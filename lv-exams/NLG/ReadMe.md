@@ -1,14 +1,17 @@
-# Multiple-choice questions (MCQ) from Latvian Centralized High School Exams
+# Natural Language Generation (NLG) from Latvian Centralized High School Exams
 
 ## Data source
 
 Data is gathered from the [National Centre for Education homepage](https://www.visc.gov.lv/lv/20222023-macibu-gada-uzdevumi#vidusskola)
 
-## Prompt template
+## Open-source LLM models tested
 
-    {question}
-    {answer_options}
-    Atbildi formātā 'Atbilde ir X', kur X ir pareizās atbildes burts.
+    gemma2:27b-instruct-fp16
+    llama3.1:405b-instruct_q5
+    mistral-large:123b-instruct-2407-fp16
+    qwen2-72b-instruct-fp16
+    
+    
 
-The answer is checked with case-insensitive regexp `Atbilde ir[*\s]*([A-Z])`
+Tested in Olama environment with default parameters, except: ContextLength=16384 and MaxTokens(num_predict)=2048
 
