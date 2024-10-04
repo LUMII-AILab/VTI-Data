@@ -13,3 +13,7 @@ NLU and NLG datasets developed within the Latvian Language Technology Initiative
 
      MMLU is a machine translated [MMLU](https://huggingface.co/datasets/cais/mmlu) benchmark dataset for Latvian.
      The `sociology_postedited.json` file contains a post-edited collection of the first 100 tasks in the sociology subject.
+
+4. [LV-exams](lv-exams/)
+
+	Multiple-choice questions (MCQ) from Latvian Centralized High School Exams.

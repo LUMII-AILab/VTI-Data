@@ -1,0 +1,167 @@
+[
+	{
+		"ref": "physics_2023_1_2",
+		"question": "Lidmašīna vienmērīgā kustībā veic vienu pilnu apli. Kurš apgalvojums vai kuri apgalvojumi par ķermeņa kustību ir patiesi? I Lidmašīnas pārvietojums ir vienāds ar nulli; II Lidmašīnas vidējais ātrums ir vienāds ar nulli; III Lidmašīnas centrtieces paātrinājums ir vienāds ar nulli.",
+		"options": {
+			"A": "tikai I",
+			"B": "tikai I un II",
+			"C": "tikai I un III",
+			"D": "tikai III"
+		},
+		"answer": "A"
+	},
+	{
+		"ref": "physics_2023_1_3",
+		"question": "Zeme iedarbojas uz Mēnesi ar noteiktu gravitācijas spēku. Kāds ir spēka modulis, ar kuru Mēness iedarbojas uz Zemi, salīdzinājumā ar spēku, ar kādu Zeme iedarbojas uz Mēnesi?",
+		"options": {
+			"A": "mazāks",
+			"B": "lielāks",
+			"C": "tikpat liels",
+			"D": "vienāds ar nulli"
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "physics_2023_1_5",
+		"question": "Slēpotājs brauc lejup no kalna. Vispirms – pa kalna vienu nogāzi X, pēc tam – pa tā paša kalna nogāzi Y. Sniega virsmas fizikālās īpašības uz abām nogāzēm ir identiskas. Nogāze Y ir daudz stāvāka nekā nogāze X. Kurš apgalvojums par berzes spēku, kas darbojas uz slēpēm, ir patiess? Berzi starp slēpotāju un gaisu neņem vērā.",
+		"options": {
+			"A": "berzes spēks ir lielāks, kad slēpotājs brauc lejup pa nogāzi X",
+			"B": "berzes spēks ir lielāks, kad slēpotājs brauc lejup pa nogāzi Y",
+			"C": "berzes spēks nav atkarīgs no nogāzes stāvuma",
+			"D": "abos gadījumos berzes spēki ir vienādi, bet nav vienādi ar nulli"
+		},
+		"answer": "A"
+	},
+	{
+		"ref": "physics_2023_1_8",
+		"question": "Ūdenī vārīšanās laikā rodas daudz burbuļu. Kas, galvenokārt, atrodas šajos burbuļos?",
+		"options": {
+			"A": "gaiss",
+			"B": "skābeklis",
+			"C": "vakuums",
+			"D": "ūdens tvaiks"
+		},
+		"answer": "D"
+	},
+	{
+		"ref": "physics_2023_1_9",
+		"question": "Apaļā metāla diskā izgriezts apaļš, koncentrisks caurums. Disku vienmērīgi silda, un tā ārējais apkārtmērs palielinās par 4 procentiem. Šajā gadījumā cauruma apkārtmērs",
+		"options": {
+			"A": "samazinās par 16 procentiem",
+			"B": "samazinās par 4 procentiem",
+			"C": "palielinās par 4 procentiem",
+			"D": "palielinās par 8 procentiem"
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "physics_2023_1_10",
+		"question": "Skolēni dabaszinību pulciņā pētīja ūdens iztvaikošanu. Viņi ielēja šķīvī nedaudz ūdens un iznesa šķīvi skolas pagalmā, lai ūdens iztvaikotu. Fizikālie lielumi: I ūdens temperatūra; II gaisa plūsmas ātrums ap šķidrumu; III ūdens virsmas laukums; IV gaisa mitrums. Kuri minētie fizikālie lielumi ietekmē laiku, kurā viss šķidrums iztvaikos?",
+		"options": {
+			"A": "tikai I un II",
+			"B": "tikai II un IV",
+			"C": "tikai I un III",
+			"D": "I, II, III un IV"
+		},
+		"answer": "D"
+	},
+	{
+		"ref": "physics_2023_1_11",
+		"question": "n moli ideālas gāzes atrodas slēgtā nemainīga tilpuma traukā. Cik reižu mainīsies gāzes spiediens, ja tās absolūtā temperatūra mainīsies divas reizes? R ir universālā gāzu konstante.",
+		"options": {
+			"A": "2/(nR)",
+			"B": "2",
+			"C": "2nR",
+			"D": "2/n"
+		},
+		"answer": "B"
+	},
+	{
+		"ref": "physics_2023_1_12",
+		"question": "Notiekot virknei termodinamisku procesu, nemainīgas masas gāzes iekšējā enerģija ir pieaugusi par 560 J. Darbs, ko paveikusi gāze, ir 320 J. Kāda siltuma apmaiņa ir notikusi starp gāzi un apkārtējo vidi?",
+		"options": {
+			"A": "240 J absorbēts no apkārtējās vides",
+			"B": "240 J izkliedēts apkārtējā vidē",
+			"C": "880 J absorbēts no apkārtējās vides",
+			"D": "880 J izkliedēts apkārtējā vidē"
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "physics_2023_1_13",
+		"question": "Kura fizikālā lieluma mērvienība Starptautiskajā mērvienību sistēmā ir N/C?",
+		"options": {
+			"A": "elektriskā lādiņa",
+			"B": "elektriskā lauka intensitātes",
+			"C": "elektriskā lauka potenciāla",
+			"D": "elektriskā lauka darba"
+		},
+		"answer": "B"
+	},
+	{
+		"ref": "physics_2023_1_15",
+		"question": "Kura fizikālā lieluma precīzai raksturošanai jānorāda gan skaitliskā vērtība, gan virziens?",
+		"options": {
+			"A": "elektriskais lādiņš",
+			"B": "magnētiskā lauka indukcija",
+			"C": "elektriskā lauka potenciāls",
+			"D": "kondensatora enerģija"
+		},
+		"answer": "B"
+	},
+	{
+		"ref": "physics_2023_1_20",
+		"question": "Gaisma krīt caur vienu šauru spraugu, un var novērot gaismas difrakciju. Kādā gadījumā vislabāk var novērot gaismas difrakciju?",
+		"options": {
+			"A": "gaismas viļņa garums ir daudz īsāks nekā spraugas platums",
+			"B": "gaismas viļņa garums ir daudz garāks nekā spraugas platums",
+			"C": "gaismas viļņa garums ir salīdzināms ar spraugas platumu",
+			"D": "no situācijas apraksta nevar secināt par krītošās gaismas viļņa garumu"
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "physics_2023_1_21",
+		"question": "Izteikti šādi apgalvojumi par viļņiem no koherentiem viļņu avotiem. I Viļņiem no koherentiem avotiem vienmēr ir vienāds ātrums visā ceļā no koherentiem avotiem līdz ekrānam; II Viļņiem no koherentiem avotiem ir vienāda frekvence; III Viļņiem no koherentiem avotiem ir nemainīga fāžu nobīde. Kurš apgalvojums ir patiess vai kuri apgalvojumi ir patiesi?",
+		"options": {
+			"A": "tikai I",
+			"B": "tikai I un II",
+			"C": "tikai I un III",
+			"D": "tikai II un III"
+		},
+		"answer": "D"
+	},
+	{
+		"ref": "physics_2023_1_22",
+		"question": "Dabā pastāv dažādi viļņi: I gaismas viļņi; II skaņas viļņi; III mikroviļņi. Kuriem viļņiem var novērot Doplera efektu?",
+		"options": {
+			"A": "tikai I",
+			"B": "tikai II",
+			"C": "tikai I un III",
+			"D": "I, II un III"
+		},
+		"answer": "D"
+	},
+	{
+		"ref": "physics_2023_1_23",
+		"question": "Ūdeņraža atoms sastāv no protona un elektrona. Kura mijiedarbība ir pamatā tam, ka atoms nesabrūk?",
+		"options": {
+			"A": "gravitācijas mijiedarbība",
+			"B": "vājā mijiedarbība",
+			"C": "elektromagnētiskā mijiedarbība",
+			"D": "stiprā mijiedarbība"
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "physics_2023_1_25",
+		"question": "Astronoms atklāja, ka visām tālajām galaktikām, ko viņš novēroja, ir redzama sarkanā nobīde (astronoma novēroto zvaigžņu spektra līnijas bija nobīdījušās uz garāku viļņa garumu pusi). Kurš apgalvojums ir patiess?",
+		"options": {
+			"A": "galaktikas attālinās no novērotāja",
+			"B": "galaktikas tuvojas novērotājam",
+			"C": "galaktikas netuvojas un neattālinās no novērotāja",
+			"D": "sarkanā nobīde nesniedz informāciju par galaktiku kustību"
+		},
+		"answer": "A"
+	}
+]

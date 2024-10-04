@@ -1,0 +1,201 @@
+[
+	{
+		"ref": "latvian_2023_1_1",
+		"text_file": "latvian_2023_text1.txt",
+		"question": "Kurš valodas līdzeklis liecina par sarunas biedru tuvību?",
+		"options": {
+			"A": "Uzruna Sašīt.",
+			"B": "Dialoga lietojums.",
+			"C": "Daudzpunktes izmantojums.",
+			"D": "Rosinājuma teikumi.",
+			"E": "Iespraudums šķiet."
+		},
+		"answer": "A"
+	},
+	{
+		"ref": "latvian_2023_1_2",
+		"text_file": "latvian_2023_text1.txt",
+		"question": "Teksta fragmentā vairākkārt izmantots apzīmējums „vecais labais Čaks”. Kāpēc starp apzīmētājiem nav likts komats?",
+		"options": {
+			"A": "Tie ir nesaskaņotie apzīmētāji.",
+			"B": "Tas ir stabils vārdu savienojums.",
+			"C": "Tas ir frazeoloģisms.",
+			"D": "Tas ir nozīmi pastiprinošs vārdu savienojums."
+		},
+		"answer": "B"
+	},
+	{
+		"ref": "latvian_2023_1_3",
+		"text_file": "latvian_2023_text1.txt",
+		"question": "Teksta fragmentā A. Čaka stāstiem pārmests formālisms. Kurš skaidrojums atbilst jēdzienam „formālisms”?",
+		"options": {
+			"A": "Sīkumainu formalitāšu ievērošana.",
+			"B": "Mākslas darba satura absolutizēšana, mazāku vērību pievēršot formai.",
+			"C": "Mākslas darba formas absolutizēšana, mazāku vērību pievēršot saturam.",
+			"D": "Pārmērīga sekošana priekšrakstiem."
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "latvian_2023_1_4",
+		"text_file": "latvian_2023_text1.txt",
+		"question": "Kurš mākslinieciskās izteiksmes līdzeklis lietots teksta fragmentā: „Pirms cik gadiem viņš pūzdams un elzdams nesa šuvējām mīlestības pilnās zīmītes no zeļļiem? Pirms simt? Tūkstoš gadiem?”?",
+		"options": {
+			"A": "Personifikācija.",
+			"B": "Metafora.",
+			"C": "Hiperbola.",
+			"D": "Alūzija."
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "latvian_2023_1_5",
+		"text_file": "latvian_2023_text1.txt",
+		"question": "Kuram valodas funkcionālajam stilam atbilst teksta fragmentā lietotā frāze piemērā: „Tikko bija pievārēts ceturtais stāvs, bet Milda dzīvoja sestajā. Nolādēts, kad reiz Rīgā ķersies pie liftu remontēšanas [..]”?",
+		"options": {
+			"A": "Sarunvalodas stils.",
+			"B": "Lietišķo rakstu valodas stils.",
+			"C": "Zinātniskās valodas stils.",
+			"D": "Publicistikas stils."
+		},
+		"answer": "A"
+	},
+	{
+		"ref": "latvian_2023_1_6",
+		"text_file": "latvian_2023_text1.txt",
+		"question": "Kurš skaidrojums raksturo daudzpunktes izmantošanas nolūku teksta fragmentā: „Tas jau ir mans lāsts… Ka es netieku vaļā no vecā labā Čaka… Bet tev pilnīga taisnība, ka viņi nav lasījuši…”?",
+		"options": {
+			"A": "Daudzpunkte norāda uz izceltu galveno domu.",
+			"B": "Daudzpunkte norāda uz dialoga dalībnieka emocijām.",
+			"C": "Daudzpunkte saista teikuma daļas."
+		},
+		"answer": "B"
+	},
+	{
+		"ref": "latvian_2023_1_7",
+		"text_file": "latvian_2023_text1.txt",
+		"question": "Teksta teikumā „Sirds dauzījās neprātīgi, un asi dūrieni it kā sacentās savā starpā, uzplaiksnīdami te krūtīs, te deniņos, te – un tas likās vispretīgāk – pakausī.” lietotas dažādas sintaktiskās konstrukcijas. Kurā atbildē nosauktas visas teikumā lietotās sintaktiskās konstrukcijas?",
+		"options": {
+			"A": "Neatkarīga teikuma daļa, divdabja teiciens, vienlīdzīgi teikuma locekļi, iespraudums.",
+			"B": "Neatkarīga teikuma daļa, savrupinājums, vienlīdzīgi teikuma locekļi.",
+			"C": "Neatkarīga teikuma daļa, iespraudums, vienlīdzīgi teikuma locekļi."
+		},
+		"answer": "A"
+	},
+	{
+		"ref": "latvian_2023_1_8",
+		"text_file": "latvian_2023_text1.txt",
+		"question": "Kurā no teksta teikumiem ir frazeoloģisms?",
+		"options": {
+			"A": "Tu esi gluži sarkans!",
+			"B": "Kaut ko dzirdēju pa ausu galam.",
+			"C": "Vanags visu izcēla kā izgaršodams."
+		},
+		"answer": "B"
+	},
+	{
+		"ref": "latvian_2023_1_9",
+		"text_file": "latvian_2023_text1.txt",
+		"question": "Kurš apgalvojums paskaidro, kāpēc A. Čaks teksta fragmentā jūtas grūtsirdīgi?",
+		"options": {
+			"A": "Viņam ir iedzimta sirdskaite.",
+			"B": "Viņš jūtas sāpināts sev adresēto pārmetumu dēļ.",
+			"C": "Viņš ir nomākts, jo Milda viņu nesaprot.",
+			"D": "Viņš ir dusmīgs un aizkaitināts, jo viņam tiek aizliegts rakstīt bērniem."
+		},
+		"answer": "B"
+	},
+	{
+		"ref": "latvian_2023_1_10",
+		"text_file": "latvian_2023_text1.txt",
+		"question": "Kura emocionāli ekspresīvā stila nokrāsa lietota teksta teikumā „Tādus bezjēgas vārdus pār mūsu galvām izsēj augu dienu”?",
+		"options": {
+			"A": "Oficiāla nokrāsa.",
+			"B": "Ironiska nokrāsa.",
+			"C": "Sirsnīga nokrāsa.",
+			"D": "Poētiska nokrāsa."
+		},
+		"answer": "B"
+	},
+	{
+		"ref": "latvian_2023_1_11",
+		"text_file": "latvian_2023_text2.txt",
+		"question": "Ar kādiem paņēmieniem tiek strukturēta informācija tekstā?",
+		"options": {
+			"A": "Iespraudumi un atkāpes.",
+			"B": "Citāti un iespraudumi.",
+			"C": "Iekavas un pēdiņas."
+		},
+		"answer": "A"
+	},
+	{
+		"ref": "latvian_2023_1_12",
+		"text_file": "latvian_2023_text2.txt",
+		"question": "Kurš vārda „hronika” skaidrojums raksturo teksta žanru?",
+		"options": {
+			"A": "Apcerējuma veids, kur vēsturiskie notikumi aprakstīti hronoloģiskā secībā.",
+			"B": "Notikumu, faktu u. tml. reģistrējums hronoloģiskā secībā; pasākuma, darbības u. tml. secīgs apraksts.",
+			"C": "Pētniecisks darbs, kurā dokumentāli attēloti vēsturiski notikumi.",
+			"D": "Dokumentālu materiālu kopa par aktuāliem notikumiem (presē, radio, televīzijā, kino)."
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "latvian_2023_1_15",
+		"text_file": "latvian_2023_text2.txt",
+		"question": "Tekstā minēts A. Čaka darbs – eposs „Mūžības skartie”. Kurš apgalvojums raksturo šo darbu?",
+		"options": {
+			"A": "Darbs par latviešu karotājiem pasaulē.",
+			"B": "Darbs par tiem latviešiem, kas devās trimdā.",
+			"C": "Darbs par latviešu mitoloģiskajām būtnēm – veļiem.",
+			"D": "Darbs par latviešu strēlniekiem."
+		},
+		"answer": "D"
+	},
+	{
+		"ref": "latvian_2023_1_16",
+		"text_file": "latvian_2023_text2.txt",
+		"question": "Teksta piemērs: [..] „Vienā no vaļsirdības brīžiem pēc garas sarunu nakts kāda Tērbatas ielas dzīvokļa virtuvē Čaks stāstīja, ka 1940. gadā drīz pēc krievu iebrukuma viņš izsaukts pie Žaņa Spures, kas, būdams Latvijas kompartijas otrais sekretārs, toreiz noteica kultūras dzīvi Latvijā, un saņēmis bargu norādījumu, ka viņam būs jāizpērk „Mūžības skarto” vārdi – „čekists vai jefiņš”?” Kur tajā lietota pārnestā nozīme?",
+		"options": {
+			"A": "Pēc garas sarunu nakts.",
+			"B": "Izsaukts pie Žaņa Spures.",
+			"C": "Bargu norādījumu.",
+			"D": "Jāizpērk vārdi."
+		},
+		"answer": "D"
+	},
+	{
+		"ref": "latvian_2023_1_18",
+		"text_file": "latvian_2023_text2.txt",
+		"question": "Nosaki vārddarināšanas paņēmienu šajos piemēros „specfonds”, „kompartija”!",
+		"options": {
+			"A": "Atvasināšana ar piedēkli.",
+			"B": "Salikteņa, kura pirmā daļa ir īpašības vārds bez galotnes, veidošana.",
+			"C": "Salikteņa no diviem svešvārdiem veidošana."
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "latvian_2023_1_19",
+		"text_file": "latvian_2023_text2.txt",
+		"question": "Kurā skaidrojumā iekļautais teksts sasaucas ar teksta fragmentā minēto informāciju: „Okupācijas režīma apoloģēti līdz pat 1988. gadam šo darbu turēja ievietotu tā dēvētajā specfondā – aizliegto grāmatu krātuvē”?",
+		"options": {
+			"A": "Notika Latvijas Rakstnieku savienības valdes paplašinātais plēnums ar citu radošo savienību vadītāju un ekspertu piedalīšanos.",
+			"B": "Rīgas Sporta manēžā notika Zigmara Liepiņa un Māras Zālītes rokoperas „Lāčplēsis” pirmizrāde.",
+			"C": "Pirmo reizi Latvijas pēckara vēsturē demonstrācijas laikā grupas „Helsinki-86” biedrs Konstantīns Pupurs cauri visai Rīgai, no Brīvības pieminekļa līdz Brāļu kapiem, iznesa Latvijas sarkanbaltsarkano karogu.",
+			"D": "1946. gadā izveido Speciāli glabājamās literatūras nodaļu jeb specfondu, kurā glabāt „pretpadomju” jeb aizliegtos izdevumus. Specfondu vispārīgai lietošanai atver tikai atmodas pašā sākumā – 1988. gadā."
+		},
+		"answer": "D"
+	},
+	{
+		"ref": "latvian_2023_1_20",
+		"text_file": "latvian_2023_text2.txt",
+		"question": "Kurā teksta piemērā pēdiņās ir likti vārdi ironiskā nozīmē?",
+		"options": {
+			"A": "Čaks atbildēja, iekaisis ar dūri sizdams uz virtuves gāzes pavarda, ka nograbēja vien: „Vai tu zini, kas ir bailes!?”",
+			"B": "Tik tālu Čaku bija novedušas 40. gadu „vēsturiskās realitātes”.",
+			"C": "Viņam būs jāizpērk [..] vārdi – „čekists vai jefiņš”."
+		},
+		"answer": "B"
+	}
+]

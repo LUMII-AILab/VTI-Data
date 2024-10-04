@@ -1,0 +1,178 @@
+[
+	{
+		"ref": "geography_2023_1_1",
+		"question": "Čīle un Peru ir vienas no lielākajām vara ieguves valstīm pasaulē. Kura reljefa forma saistāma ar vara ieguvi Dienvidamerikā?",
+		"options": {
+			"A": "Kordiljeru kalni",
+			"B": "Amazones līdzenums",
+			"C": "Gvajānas plakankalne",
+			"D": "Andu kalni"
+		},
+		"answer": "D"
+	},
+	{
+		"ref": "geography_2023_1_3",
+		"question": "Kāpēc savannas veģetācijā atšķirībā no stepēm daudz vairāk sastopami koki?",
+		"options": {
+			"A": "savannās ir siltāks, jo tās atrodas tuvāk ekvatoram nekā stepes",
+			"B": "savannās sarkanbrūnās augsnes ir auglīgākas nekā stepēs esošās melnzemes",
+			"C": "savannās gada nokrišņu daudzums vidēji ir lielāks nekā stepēs",
+			"D": "savannās augsne ir irdenāka nekā stepēs, un tā ļauj kokiem iesakņoties"
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "geography_2023_1_5",
+		"question": "Kurš apgalvojums visprecīzāk raksturo vertikālo zonalitāti, palielinoties augstumam!",
+		"options": {
+			"A": "pieaug temperatūra, un skujkoku mežus nomaina tundra",
+			"B": "samazinās temperatūra, un skujkoku meži nomaina tundru",
+			"C": "samazinās temperatūra, un skujkoku mežus nomaina tundra",
+			"D": "pieaug temperatūra, un tundra nomaina skujkoku mežus"
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "geography_2023_1_7",
+		"question": "Kurš apgalvojums visprecīzāk apraksta jēdzienu “ataudze”?",
+		"options": {
+			"A": "kādā laika posmā dzīvi dzimušo bērnu skaita attiecība pret iedzīvotāju kopskaitu",
+			"B": "kādā laika posmā mirušo skaita attiecība pret iedzīvotāju kopskaitu",
+			"C": "starpība starp kādā laika posmā dzimušo un mirušo skaitu",
+			"D": "straujš iedzīvotāju skaita pieaugums kādā reģionā"
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "geography_2023_1_8",
+		"question": "Magnitūda ir mērvienība, kas rāda",
+		"options": {
+			"A": "zemestrīcē izdalīto enerģijas daudzumu uz platības vienību",
+			"B": "zemestrīces radītos postījumus",
+			"C": "zemestrīcē bojāgājušo skaitu uz katriem 1000 teritorijas iedzīvotājiem",
+			"D": "zemestrīces intensitāti un iespēju zemestrīcei atkārtoties tuvākā mēneša laikā"
+		},
+		"answer": "A"
+	},
+	{
+		"ref": "geography_2023_1_9",
+		"question": "Kuri augu pielāgojumi raksturo savannas veģetāciju?",
+		"options": {
+			"A": "Plaša sakņu sistēma nodrošina koku stabilitāti un piekļuvi barības vielām augsnes virsējos slāņos. Ar vasku klātās piltuvveidīgās lapas ļauj novadīt lielu daudzumu ūdens īsās mitrās sezonas laikā.",
+			"B": "Vairāki atšķirīgi veģetācijas stāvi pielāgojušies intensīvam saules starojumam vasarās. Ziemā, samazinoties saules siltumam, kokiem nokrīt lapas, bet sausajā sezonā atkal atjaunojas.",
+			"C": "Tikai dažas koku sugas var izdzīvot garajā sausajā sezonā. Ar vasku klātās augu lapas ierobežo mitruma zudumu. Dziļās koku saknes sasniedz gruntsūdeņu līmeni. Graudzāles sausajā sezonā nokalst, bet mitrās sezonas laikā atjaunojas.",
+			"D": "Dominē skujkoki, un savannas nomalēs sastopami skrajmeži. Adatveidīgas lapas pielāgojušās lielām temperatūras svārstībām diennakts laikā."
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "geography_2023_1_10",
+		"question": "Kuras iezīmes raksturīgas cunami?",
+		"options": {
+			"A": "Tiem raksturīgi īsi viļņi un liela amplitūda. Parasti pārvietojas ar ātrumu 30 km/h. Viļņu augstums samazinās, sasniedzot piekrasti.",
+			"B": "Tiem raksturīgi gari viļņi un maza amplitūda. Ātrums dažreiz sasniedz 700 km/h. Jūras līčos seklūdens zonā strauji palielinās viļņu augstums.",
+			"C": "Tiem raksturīgi īsi viļņi, kuri veido vairākas viļņu sērijas. Viļņi ļoti strauji sasniedz sauszemi, kuras tuvumā augstums dažreiz pārsniedz 20 metrus.",
+			"D": "Stipra vēja iekustināti lieli viļņi, kuri pārvietojoties attīstās par ļoti spēcīgiem viļņiem. Jūras līčos seklūdens zonā veidojas gigantiska izmēra viļņi."
+		},
+		"answer": "B"
+	},
+	{
+		"ref": "geography_2023_1_11",
+		"question": "Kurš faktors veicinājis lineāra telpiskā plānojuma attīstību Jūrmalas pilsētā?",
+		"options": {
+			"A": "novietojums Rīgas tuvumā",
+			"B": "novietojums Rīgas līča piekrastē",
+			"C": "novietojums pie autoceļa A10",
+			"D": "novietojums Viduslatvijas zemienē"
+		},
+		"answer": "B"
+	},
+	{
+		"ref": "geography_2023_1_14",
+		"question": "Kurš dotais faktors veicina ieceļošanu valstī?",
+		"options": {
+			"A": "cilvēktiesību pārkāpumi valstī",
+			"B": "kvalificēta darbaspēka zema apmaksa valstī",
+			"C": "imigrāciju veicinoša politika valstī",
+			"D": "dabas katastrofu pieaugums valstī"
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "geography_2023_1_15",
+		"question": "Kurš ievērojams starptautisks politisks notikums veicināja trešo demogrāfiskā sprādziena vilni pasaulē 20. gs. vidū?",
+		"options": {
+			"A": "koloniālās sistēmas sabrukums Āfrikā un Āzijā",
+			"B": "rūpniecības rašanās un lauksaimniecības attīstība",
+			"C": "dzimstību veicinoša politika Eiropā",
+			"D": "pilsoņu karš Āfrikas un Āzijas valstīs"
+		},
+		"answer": "A"
+	},
+	{
+		"ref": "geography_2023_1_16",
+		"question": "Kurš dabas faktoru pāris visbūtiskāk ietekmējis apdzīvotības atšķirības Bangladešā un Nepālā? Bangladešā apdzīvotība 2020. gadā bija 1045 cilv./km2, bet Nepālā – 180 cilv./km2.",
+		"options": {
+			"A": "augsne un dabiskais pieaugums",
+			"B": "reljefs un saldūdens pieejamība",
+			"C": "valsts platība un demogrāfiskā politika",
+			"D": "pilsētu attīstība un dabas katastrofas"
+		},
+		"answer": "B"
+	},
+	{
+		"ref": "geography_2023_1_17",
+		"question": "Kuras telpiskā zonējuma teritorijas visvairāk palielināsies, attīstoties loģistikas centram Ķekavas apkārtnē?",
+		"options": {
+			"A": "dzīvojamais rajons ar daudzstāvu apbūvi",
+			"B": "izglītības un rekreācijas rajons",
+			"C": "darījumu rajons pilsētas perifērijā",
+			"D": "darījumu rajons pilsētas centrā"
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "geography_2023_1_19",
+		"question": "Kurš skaidrojums visprecīzāk apraksta cēloņus plašajai podzolēto augšņu izplatībai Latvijas teritorijā?",
+		"options": {
+			"A": "Latvijas teritorijā plaši izplatīts augsnes cilmiezis, ko veido kūdra, uz kuras, vēsā un mitrā klimata apstākļos purva augiem sadaloties, augsnē veidojas skāba reakcija un izskalojas minerālvielas",
+			"B": "Latvijai teritorijā plaši izplatīts augsnes cilmiezis, ko veido glacigēnie nogulumi, uz kuriem, vēsā un mitrā klimata apstākļos skujkoku nobirām sadaloties, augsnē veidojas bāziska reakcija un uzkrājas minerālvielas",
+			"C": " Latvijas teritorijā plaši attīstīta lauksaimnieciskā darbība, kuras ietvaros notiek augsnes agroķīmisko īpašību uzlabošana – kaļķojot, nosusinot un mēslojot augsni",
+			"D": "Latvijas teritorijā plaši izplatīts augsnes cilmiezis, ko veido glacigēnie nogulumi, uz kuriem, vēsā un mitrā klimata apstākļos skujkoku nobirām sadaloties, augsnē veidojas skāba reakcija un izskalojas minerālvielas"
+		},
+		"answer": "D"
+	},
+	{
+		"ref": "geography_2023_1_22",
+		"question": "Austrālijas un Japānas ekonomiskās attiecības bieži tikušas aprakstītas ar teicienu “Austrālija ir Japānas raktuves”. Kurš apgalvojums visprecīzāk pamato šo teicienu?",
+		"options": {
+			"A": "lielu daļu ražošanā nepieciešamo minerālresursu Japāna iepērk no Austrālijas",
+			"B": "Austrālija no Japānas iepērk enerģētiskos resursus",
+			"C": "Austrālija nodrošina praktiski visu Japānas pārtikas rūpniecību ar izejvielām",
+			"D": "Japāna nodrošina praktiski visu Austrālijas pārtikas rūpniecību ar izejvielām"
+		},
+		"answer": "A"
+	},
+	{
+		"ref": "geography_2023_1_24",
+		"question": "Kurai dabas resursu grupai pieder augi un dzīvnieki?",
+		"options": {
+			"A": "bioloģiskie, izsmeļamie neatjaunīgie",
+			"B": "bioloģiskie, neizsmeļamie",
+			"C": "bioloģiskie, izsmeļamie atjaunīgie",
+			"D": "bioloģiskie, lauksaimniecības"
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "geography_2023_1_25",
+		"question": "Kurš faktors visbūtiskāk nosaka derīgo izrakteņu izvietojumu Latvijā?",
+		"options": {
+			"A": "ģeoloģiskā uzbūve un ģeoloģiskās attīstības vēsture",
+			"B": "reljefa formu izvietojums",
+			"C": "ieguves rūpniecības attīstība",
+			"D": "pieprasījums un piedāvājums globālajā tirgū"
+		},
+		"answer": "A"
+	}
+]

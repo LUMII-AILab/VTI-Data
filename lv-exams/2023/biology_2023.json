@@ -1,0 +1,112 @@
+[
+	{
+		"ref": "biology_2023_1_3",
+		"question": "Olbaltumvielas sintēzē ir iesaistītas nukleīnskābes. Kura nukleīnskābe pārnes aminoskābi uz olbaltumvielu sintēzes vietu šūnā?",
+		"options": {
+			"A": "DNS",
+			"B": "mRNS",
+			"C": "tRNS",
+			"D": "rRNS"
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "biology_2023_1_7",
+		"question": "Imūnvielu sintēze cilvēkā var tikt traucēta, ja ir nepilnvērtīgs uzturs. Kuras vielas visvairāk nepieciešamas imūnvielu sintēzei?",
+		"options": {
+			"A": "lipīdi",
+			"B": "vitamīni",
+			"C": "ogļhidrāti",
+			"D": "olbaltumvielas"
+		},
+		"answer": "D"
+	},
+	{
+		"ref": "biology_2023_1_10",
+		"question": "Cilvēkam deguna formu nosaka viena gēna alēles: dominantā alēle (D) nosaka taisna deguna veidošanos, bet recesīvā (d) – uzrauta deguna veidošanos. Kādi ir varbūtējie pēcnācēju genotipi, ja mātei ir uzrauts deguns, bet tēvam – taisns un ja viņa genotips ir heterozigotisks?",
+		"options": {
+			"A": "100 % taisns deguns",
+			"B": "75 % taisns, 25 % uzrauts deguns",
+			"C": "100 % Dd",
+			"D": "50 % Dd, 50 % dd"
+		},
+		"answer": "D"
+	},
+	{
+		"ref": "biology_2023_1_13",
+		"question": "Cilvēka normālas embrionālās attīstības laikā diferenciācijas procesā no zigotas rodas sirds muskuļu šūnas, neironi smadzenēs un plaušu epitēlija šūnas. Kurš apgalvojums par nosauktajām šūnām ir patiess?",
+		"options": {
+			"A": "tikai zigota satur DNS",
+			"B": "visām attēlotajām šūnām ir identisks DNS",
+			"C": "zigotas DNS ir atšķirīga no pārējo šūnu DNS",
+			"D": "zigotas DNS atšķiras no pārējo, bet ne visu šūnu DNS"
+		},
+		"answer": "B"
+	},
+	{
+		"ref": "biology_2023_1_14",
+		"question": "Daudziem koraļļiem ir koša krāsa, kuru tiem piešķir starpšūnu vielā dzīvojošās aļģes. Aļģes daļēji nodrošina koraļļus ar organiskām vielām, jo koraļļi paši nespēj saķert pietiekami daudz sīkbūtņu. Koraļļu kolonija ir aļģēm drošs patvērums, turklāt koraļļu izdalītie slāpekli saturošie vielmaiņas galaprodukti veicina aļģu augšanu. Kurš jēdziens pareizi raksturo koraļļu un aļģu mijiedarbību?",
+		"options": {
+			"A": "neitrālisms",
+			"B": "parazītisms",
+			"C": "komensālisms",
+			"D": "mutuālisms"
+		},
+		"answer": "D"
+	},
+	{
+		"ref": "biology_2023_1_17",
+		"question": "Parastā apse ir viena no Latvijā izplatītākajām koku sugām, kura veido blīvas audzes. Kurš abiotiskais faktors ierobežo jauno apšu augšanu?",
+		"options": {
+			"A": "gaismas pieejamība zem pieaugušo koku lapotnes",
+			"B": "skābekļa pieejamība gaisā",
+			"C": "patogēno sēņu klātbūtne augsnē",
+			"D": "vaboles lapu koku tinējsmecernieka masveida savairošanās"
+		},
+		"answer": "A"
+	},
+	{
+		"ref": "biology_2023_1_21",
+		"question": "Sienāžiem ir raksturīgas lēcējkājas, ar kuru palīdzību kukaiņi pārvietojas zālājā. Lēcējkāju esamība ir piemērs",
+		"options": {
+			"A": "adaptācijai",
+			"B": "asimilācijai",
+			"C": "variabilitātei",
+			"D": "deģenerācijai"
+		},
+		"answer": "A"
+	},
+	{
+		"ref": "biology_2023_1_22",
+		"question": "Latvijas Universitātes Bioloģijas institūtā veiksmīgi noslēdzies projekts, kurā izstrādāti jauni materiāli augļu – īpaši aveņu un zemeņu – apstrādei ar bioloģiski noārdāmiem un mikrobiāli sintezētiem polimēra pārklājumiem. Eksperimentu laikā pētnieki veica biopolimēru producentu (baktēriju) atlasi. Viens no biopolimēriem ir bakteriālā celuloze, kuru var izmantot augļu pārklājumiem, bionoārdāmiem iepakošanas materiāliem. Īpaši augstu bakteriālās celulozes sintēzi var sasniegt ābolu sulas barotnē, izmantojot baktēriju Novacetimonas hansenii MSCL 1646, kas spēj efektīvi veidot biopolimēru no barotnē esošiem cukuriem. Izejviela biopolimēra sintēzei ir pārtikas pārstrādes rūpniecības blakusprodukti, piemēram, sūkalas, augu atlieku biomasa, melase. Vides un sabiedrības veselības problēmas: 1. Augļu un dārzeņu ražas zudums īsa realizācijas termiņa rezultātā; 2. Bioloģiskās daudzveidības samazināšanās; 3. Augsnes un ūdens piesārņojums ar produktu iepakojuma plastmasu; 4. Dažādu ar pārtikas ražošanu saistītu rūpniecības nozaru blakus produktu otrreizēja izmantošana; 5. Infekcijas slimību pandēmiju rašanās. Kuras vides un sabiedrības veselības problēmas var mazināt atklājuma ieviešana?",
+		"options": {
+			"A": "1., 2., 4.",
+			"B": "1., 3., 4.",
+			"C": "2., 3., 5.",
+			"D": "3., 4., 5."
+		},
+		"answer": "B"
+	},
+	{
+		"ref": "biology_2023_1_24",
+		"question": "Nonākot dabiskā vidē, piemēram, ģenētiski modificēti (ĢM) laši var radīt izmaiņas gan ekosistēmās, gan organismu iedzimtības materiālā. Kurš nav ĢM lašu radītais riska faktors?",
+		"options": {
+			"A": "izmainīto gēnu klātbūtne lašu genomā var mainīt citu gēnu ekspresiju",
+			"B": "iespējamas izmaiņas ekosistēmas bioloģiskajā daudzveidībā",
+			"C": "ĢM lašu iekļaušana cilvēku uzturā rada negatīvu publicitāti medijos",
+			"D": "ĢM laši konkurē ar dabisko lašu populāciju"
+		},
+		"answer": "C"
+	},
+	{
+		"ref": "biology_2023_1_25",
+		"question": "Viena DNS molekula tiek pavairota piecos polimerāzes ķēdes reakcijas ciklos. Cik DNS molekulas kopiju iegūs?",
+		"options": {
+			"A": "6",
+			"B": "16",
+			"C": "32",
+			"D": "64"
+		},
+		"answer": "C"
+	}
+]
