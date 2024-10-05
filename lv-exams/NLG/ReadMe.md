@@ -14,7 +14,7 @@ Data is gathered from the [National Centre for Education homepage](https://www.v
     
 ## Testing and Evaluation procedure
 
-Test results obtained with [Ollama](https://ollama.com/) environment with default parameters, except: ContextLength=16384 and MaxTokens(num_predict)=2048
+Test results obtained in [Ollama](https://ollama.com/) environment with default parameters, except: ContextLength=16384 and MaxTokens(num_predict)=2048
 
 Evaluation procedure and results described in our [NLP4DH](https://www.nlp4dh.com/nlp4dh-2024) paper "Evaluating Open-Source LLMs in Low-Resource Languages: Insights from Latvian High School Exams". 
 
