@@ -12,6 +12,11 @@ Data is gathered from the [National Centre for Education homepage](https://www.v
     qwen2-72b-instruct-fp16
     gpt-4o (August 19, 2024)
     
+## Testing and Evaluation procedure
 
-Tested in [Ollama](https://ollama.com/) environment with default parameters, except: ContextLength=16384 and MaxTokens(num_predict)=2048
+Test results obtained with [Ollama](https://ollama.com/) environment with default parameters, except: ContextLength=16384 and MaxTokens(num_predict)=2048
+
+Evaluation procedure and results described in our [NLP4DH](https://www.nlp4dh.com/nlp4dh-2024) paper "Evaluating Open-Source LLMs in Low-Resource Languages: Insights from Latvian High School Exams". 
+
+With the human evaluation data serving as the baseline, we found a weak correlation with automatic Out Of Vocabulary (OOV) word density measure (calculated from [tezaurs.lv](https://tezaurs.lv/) data using [pinitree.com](http://pinitree.com) tool). 
 
