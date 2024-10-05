@@ -13,5 +13,5 @@ Data is gathered from the [National Centre for Education homepage](https://www.v
     gpt-4o (August 19, 2024)
     
 
-Tested in Ollama [https://ollama.com/] environment with default parameters, except: ContextLength=16384 and MaxTokens(num_predict)=2048
+Tested in [Ollama](https://ollama.com/) environment with default parameters, except: ContextLength=16384 and MaxTokens(num_predict)=2048
 
