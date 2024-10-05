@@ -18,5 +18,5 @@ Test results obtained in [Ollama](https://ollama.com/) environment with default 
 
 Evaluation procedure and results described in our [NLP4DH](https://www.nlp4dh.com/nlp4dh-2024) paper "Evaluating Open-Source LLMs in Low-Resource Languages: Insights from Latvian High School Exams". 
 
-With the human evaluation data serving as the baseline, we found a weak correlation with automatic Out Of Vocabulary (OOV) word density measure (calculated from [tezaurs.lv](https://tezaurs.lv/) data enriched with [generated wordforms](https://api.tezaurs.lv/) and mapped to the text using [pinitree.com](http://pinitree.com) tool). 
+With the human evaluation data serving as the baseline, we found a weak correlation with automatic Out Of Vocabulary (OOV) word density measure (calculated from [tezaurs.lv](https://tezaurs.lv/) data enriched with [generated wordforms](https://api.tezaurs.lv/) and mapped to the generated text using [pinitree.com](http://pinitree.com) tool). 
 
