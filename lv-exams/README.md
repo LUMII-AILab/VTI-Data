@@ -13,17 +13,16 @@ Data is gathered from the [National Centre for Education homepage](https://www.v
 The answer is checked with case-insensitive regexp `Atbilde ir[*\s]*([A-Z])`
 
 ## Please cite
-Roberts Darģis, Guntis Bārzdiņš, Inguna Skadiņa, Normunds Grūzītis, Baiba Saulīte. 2024. [Evaluating Open-Source LLMs in Low-Resource Languages: Insights from Latvian High School Exams](https://aclanthology.org/2024.nlp4dh-1.28.pdf)
-Proceedings of the 4th International Conference on Natural Language Processing for Digital Humanities, Association for Computational Linguistics, 2024
+Roberts Darģis, Guntis Bārzdiņš, Inguna Skadiņa, Normunds Grūzītis, Baiba Saulīte. 2024. [Evaluating Open-Source LLMs in Low-Resource Languages: Insights from Latvian High School Exams](https://aclanthology.org/2024.nlp4dh-1.28.pdf) Proceedings of the 4th International Conference on Natural Language Processing for Digital Humanities, Association for Computational Linguistics, 2024
 
-@inproceedings
-{dargis-etal-2024-evaluating,
-  author = "Darģis, Roberts and Bārzdiņš, Guntis and Skadiņa, Inguna and Grūzītis, Normunds and Saulīte, Baiba",
-  title = "Evaluating Open-Source LLMs in Low-Resource Languages: Insights from Latvian High School Exams",
-  year = 2024,
-  booktitle = "Proceedings of the 4th International Conference on Natural Language Processing for Digital Humanities",
-  publisher = "Association for Computational Linguistics",
-  pages = "289-293",
-  month = "Nov",
-  url = "https://aclanthology.org/2024.nlp4dh-1.28.pdf"
-}
+    @inproceedings
+    {dargis-etal-2024-evaluating,
+    author = "Darģis, Roberts and Bārzdiņš, Guntis and Skadiņa, Inguna and Grūzītis, Normunds and Saulīte, Baiba",
+    title = "Evaluating Open-Source LLMs in Low-Resource Languages: Insights from Latvian High School Exams",
+    year = 2024,
+    booktitle = "Proceedings of the 4th International Conference on Natural Language Processing for Digital Humanities",
+    publisher = "Association for Computational Linguistics",
+    pages = "289-293",
+    month = "Nov",
+    url = "https://aclanthology.org/2024.nlp4dh-1.28.pdf"
+    }
