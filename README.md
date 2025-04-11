@@ -20,13 +20,13 @@ NLU and NLG datasets developed within the Latvian Language Technology Initiative
 ## Citation
 If you find this useful in your research, please consider citing: 
 
-@inproceedings{dargis-etal-2024-evaluating,
-author = "Darģis, Roberts and Bārzdiņš, Guntis and Skadiņa, Inguna and Grūzītis, Normunds and Saulīte, Baiba",
-title = "Evaluating Open-Source LLMs in Low-Resource Languages: Insights from Latvian High School Exams",
-year = 2024,
-booktitle = "Proceedings of the 4th International Conference on Natural Language Processing for Digital Humanities",
-publisher = "Association for Computational Linguistics",
-pages = "289-293",
-month = "Nov",
-url = "https://aclanthology.org/2024.nlp4dh-1.28.pdf"
-}
+	@inproceedings{dargis-etal-2024-evaluating,
+    	author = "Darģis, Roberts and Bārzdiņš, Guntis and Skadiņa, Inguna and Grūzītis, Normunds and Saulīte, Baiba",
+    	title = "Evaluating Open-Source LLMs in Low-Resource Languages: Insights from Latvian High School Exams",
+    	year = 2024,
+   	 booktitle = "Proceedings of the 4th International Conference on Natural Language Processing for Digital Humanities",
+    	publisher = "Association for Computational Linguistics",
+    	pages = "289-293",
+    	month = "Nov",
+    	url = "https://aclanthology.org/2024.nlp4dh-1.28.pdf"
+   	 }
