@@ -30,3 +30,14 @@ If you find this useful in your research, please consider citing:
     	month = "Nov",
     	url = "https://aclanthology.org/2024.nlp4dh-1.28.pdf"
    	 }
+
+     @inproceedings{Skadina-EtAl:2025,
+     author = "Skadiņa, Inguna and Bakanovs, Bruno and Darģis, Roberts",
+     title = "First Steps in Benchmarking Latvian in Large Language Models",
+     year = 2025,
+     journal = "Proceedings of the Third Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL-2025)",
+     publisher = "University of Tartu Library",
+     pages = "86-95",
+     url = "https://hdl.handle.net/10062/107120"
+}
+
