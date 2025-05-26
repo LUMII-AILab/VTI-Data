@@ -1,0 +1,413 @@
+[
+  {
+    "run": 1,
+    "outputs": [
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Kurš liepājnieks gan nezina,(1) ka Liepājā,(2) Zirgu salā,(3) ir putnu vērošanas tornis?(4)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Komats atdala savrupinājumu.\n(3) Komats atdala savrupinājumu.\n(4) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "(5)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala palīgteikumu.\n(4) Jautājuma zīme norāda jautājuma teikumu.\n(5) Pēdiņas atdala tiešo runu.?family#1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Bet kurš ir pamanījis,(1) ka arī putni vēro Liepāju?(2)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "(2)://>\n(1) Komats atdala iespraudu.\n(2) Jautājuma zīme norāda jautājuma teikumu.1. Iespējams,(1) ka viņš ir bijis pārsteigts,(2) kad viņa vārds ir izskaidrots.(3)\n(1) Komats atdala iespraudu.\n(2) Komats atdala iespraudu.\n(3) Punkts norāda teikuma beigas.1. Iespējams,(1) ka viņš ir bijis pārsteigts,(2) kad viņa vārds ir izskaidrots.(3)\n(1) Komats atdala iespraudu.\n(2) Komats atdala iespraudu.\n(3) Punkts norāda teikuma beigas.1. Iespējams,(1) ka viņš ir bijis pārsteigts,(2) kad viņa vārds ir izskaidrots.(3"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Brīnās,(1) bola acis un groza galvas,(2) un bezkaunīgi planē pāri kafejnīcu galdiņiem,(3) lai ieskatītos nelidojošo divkāju šķīvjos.(4)",
+        "reference": "(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdzīgus teikuma locekļus.\n(3) Komats atdala palīgteikumu.\n(4) Punkts norāda teikuma beigas.",
+        "generated": "!(5)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala palīgteikumu.\n(4) Izsaukuma zīme norāda izsaukuma teikumu.\n(5) Izsaukuma zīme norāda izsaukuma teikumu.?familya.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Liepājā ir daudz noslēpumaina,(1) par ko brīnīties.(2)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Punkts norāda teikuma beigas.",
+        "generated": "Vai jūs zināt,(3) ka Liepājā ir daudz īpašu,(4) kas nav redzams,(5) bet ir?(6)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala palīgteikumu.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala palīgteikumu.\n(6) Jautājuma zīme norāda jautājuma teikumu.1. Iespējamie pārdevēji ir ārvalstīs,(1) bet arī Latvijā.(2)\n(1) Komats atdala palīgteikumu.\n(2) Punkts norāda teikuma beigas.1. Iespējamie pārdevēji ir ārvalstīs,(1) bet arī Latvijā.(2)\n(1) Komats atdala palīgteikumu.\n(2) Punkts norā"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Piemēram,(1) naktīs,(2) kad ne tikvien mēness piesprausts pie debesu samta kā zelta ananass,(3) bet arī zvaigznes izbārstītas no Dieva atvilktnēm.(4)",
+        "reference": "(1) Komats atdala iespraudumu.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Punkts norāda teikuma beigas.",
+        "generated": "!(5)\n(1) Komats atdala iespraudumu.\n(2) Komats atdala iespraudumu.\n(3) Komats atdala palīgteikumu.\n(4) Jautājuma zīme norāda jautājuma teikumu.\n(5) Izsaukuma zīme norāda izsaukuma teikumu.1. Iespējams,(1) ka viņš bija iemīļojis to,(2) kādai viņš bija atvēlējis savu dzīvi.(3)\n(1) Komats atdala iespraudumu.\n(2) Komats atdala iespraudumu.\n(3) Punkts norāda teikuma beigas.1. Iespējams,(1) ka viņš bija iemīļojis to,(2) kādai viņš bija atvēlējis savu dzīvi.(3)\n(1) Komats atdala iespraudumu.\n(2) Komats atdala iespraudumu"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Tad tur,(1) lejā,(2) zīriņiem par brīnumu,(3) kaut kas iekvēlojas kā milzīgs ugunskurs,(4) un tam viducī vītero kanārijputniņu bars.(5)",
+        "reference": "(1) Komats atdala savrupinājumu.\n(2) Komats atdala savrupinājumu.\n(3) Komats atdala iespraudumu.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Punkts norāda teikuma beigas.",
+        "generated": "(6)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Komats atdala palīgteikumu.\n(5) Punkts norāda teikuma beigas.\n(6) Pēdiņas atdala tiešo runu. councillieks1\nMēs esam vienīgie,(1) kas šajā pilsētā,(2) kas nevarētu izskatīties kā kāda ārām pārāk ļoti īpaša.(3)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Punkts norāda teikuma beigas. councillieks1\nUn,(1) kā jau bija teicis,(2) viņš bija iemīļojis to,(3"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "\"(1)Kas tas ir?(2) Kas tas ir?(3)\"(4) sakliedzas kaijas.(5)",
+        "reference": "(1) Pēdiņas atdala tiešo runu.\n(2) Jautājuma zīme norāda jautājuma teikumu.\n(3) Jautājuma zīme norāda jautājuma teikumu.\n(4) Pēdiņas atdala tiešo runu.\n(5) Punkts norāda teikuma beigas.",
+        "generated": "\"(6)Kas tas ir?(7)\"(8) sakliedzas kaijas.(9)\n(1) Pēdiņas atdala tiešo runu.\n(2) Jautājuma zīme norāda jautājuma teikumu.\n(3) Pēdiņas atdala tiešo runu.\n(4) Pēdiņas atdala tiešo runu.\n(5) Komats atdala vienlīdzīgas teikuma daļas.\n(6) Pēdiņas atdala tiešo runu.\n(7) Jautājuma zīme norāda jautājuma teikumu.\n(8) Pēdiņas atdala tiešo runu.\n(9) Komats atdala vienlīdzīgas teikuma daļas. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Tām neviens nav izstāstījis par koncertzāli \"(1)Lielais dzintars\"(2) un simfonisko orķestri.(3)",
+        "reference": "(1) Pēdiņas atdala nosaukto entitāti.\n(2) Pēdiņas atdala nosaukto entitāti.\n(3) Punkts norāda teikuma beigas.",
+        "generated": "\"(4)Kāds mani pārsteigts,(5) ka šīs zāles ir tik pilnas cilvēkiem,(6) un neviens nezin,(7) ka šeit ir simfoniskais orķestris,(8) kas spēlē,(9) un neviens nezin,(10) ka šeit ir koncertzāle \"(11)Lielais dzintars\"(12).(13)\n(1) Pēdiņas atdala nosaukto entitāti.\n(2) Pēdiņas atdala nosaukto entitāti.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Kols atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala palīgteikumu.\n(6) Komats atdala palīgteikumu.\n(7) Komats atdala palīgteikumu.\n(8) Komats atdala palīgteikumu.\n(9) Komats atdala palīgteikumu.\n(10) Komats atd"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Vēl viņi nesaprot,(1) kāpēc jaukie Liepājas baznīcu torņi ik pa laikam sajūk prātā un pēkšņi sākas tāda dārdoņa,(2) it kā tajos būtu ielauzušies kazuāri:(3) \"(4)Bom!(5) Bom!(6) Bom!(7)\"(8)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Kols ievada tiešo runu.\n(4) Pēdiņas atdala tiešo runu.\n(5) Izsaukuma zīme norāda izsaukuma vārdu.\n(6) Izsaukuma zīme norāda izsaukuma vārdu.\n(7) Izsaukuma zīme norāda izsaukuma vārdu.\n(8) Pēdiņas atdala tiešo runu.",
+        "generated": "\"(9)Bom!(10) Bom!(11) Bom!(12)\"(13) \"(14)Bom!(15) Bom!(16) Bom!(17)\"(18) \"(19)Bom!(20) Bom!(21) Bom!(22)\"(23) \"(24)Bom!(25) Bom!(26) Bom!(27)\"(28) \"(29)Bom!(30) Bom!(31) Bom!(32)\"(33) \"(34)Bom!(35) Bom!(36) Bom!(37)\"(38) \"(39)Bom!(40) Bom!(41) Bom!(42)\"(43) \"(44)Bom!(45) Bom!(46) Bom!(47)\"(48) \"(49)Bom!(50) Bom!(51) Bom!(52)\"(53) \"(54)Bom!(55) Bom!(56) Bom!(57)\"(58) \"(59)Bom!(60) Bom!(61) Bom!(62)\"(63) \"(64)Bom!(65) Bom!(66) Bom!(67)\"(68) \"(69)Bom!(70) Bom!(71) Bom!(72)\"(73) \"(74)Bom!(75) Bom"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Un kas notiek Graudu ielas smalkāko namu augstumos?(1)",
+        "reference": "(1) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "(2)\n(1) Jautājuma zīme norāda jautājuma teikumu.\n(2) Pēdiņas atdala tiešo runu.Portály\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas sm"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Tur nometas estēti baloži,(1) kas dievina jūgendstilu.(2)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Punkts norāda teikuma beigas.",
+        "generated": "\"(3)Kāds no jūgendstila māksliniekiem,(4) kas ir šeit,(5) varētu būt arī mūsu mākslinieks,(6) jo viņš arī mākslinieks.(7)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Kols ievada tiešo runu.\n(4) Komats atdala palīgteikumu.\n(5) Komats atdala palīgteikumu.\n(6) Komats atdala palīgteikumu.\n(7) Punkts norāda teikuma beigas.�}ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Ak,(1) tie lieliskie izciļņi,(2) kur dūdojot griezt mīlas dejas,(3) un iedobumi,(4) kur sastiept liepās salauztos zariņus minimālisma stilā ieturētajām ligzdām!(5)",
+        "reference": "(1) Komats atdala izsaukuma vārdu.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala palīgteikumu.\n(4) Komats atdala palīgteikumu.\n(5) Izsaukuma zīme norāda izsaukuma teikumu.",
+        "generated": "(6)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Izsaukuma zīme norāda izsaukuma teikumu.\n(6) Punkts norāda teikuma beigas.���ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Kormorāni,(1) viltnieki,(2) jau trešo gadu perina bruņotu laupīšanas uzbrukumu Zivju tirgum Liepājas promenādē,(3) tikai nevar sagaidīt(4), kad to atkal atvērs.(5)",
+        "reference": "(1) Komats atdala savrupinājumu.\n(2) Komats atdala savrupinājumu.\n(3) Komats atdala vienlīdzīgus teikuma locekļus.\n(4) Komats atdala palīgteikumu.\n(5) Punkts norāda teikuma beigas.",
+        "generated": "\"(6)\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdzīgus teikuma locekļus.\n(3) Komats atdala palīgteikumu.\n(4) Komats atdala palīgteikumu.\n(5) Punkts norāda teikuma beigas.\n(6) Pēdiņas atdala tiešo runu.?family#1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Čurkstes slepeni skatās Liepājas teātra izrādes,(1) bet pēc tam sajūsmā savidžinās.(2)",
+        "reference": "(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Punkts norāda teikuma beigas.",
+        "generated": "(2)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Punkts norāda teikuma beigas.�\nGribiņa,(1) kādā viņš bija iemītis,(2) viņu atstāja,(3) un viņš,(4) atstājot savu māju,(5) aizbrauca uz pilsētu.(6)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala vienlīdzīgas teikuma daļas.\n(6) Punkts norāda teikuma beigas.�\nSavukārt,(1) ja viņš bū"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Bet zivju gārņi sapņo,(1) garās kājas cilājot,(2) pastaigāt pa Rožu laukuma dobēm.(3)",
+        "reference": "(1) Komats atdala divdabja teicienu.\n(2) Komats atdala divdabja teicienu.\n(3) Punkts norāda teikuma beigas.",
+        "generated": "(1) Komats atdala vienlīdzīgus teikuma locekļus.(2) Aizbalojums atdala tiešo runu un balsojuma zīmi.(3) Cits atdala vienlīdzīgus teikuma locekļus.((4))(4)((5))(6)\nKāds,(7) kāds,(8) kāds,(9) kāds,(10) kāds,(11) kāds,(12) kāds,(13) kāds,(14) kāds,(15) kāds,(16) kāds,(17) kāds,(18) kāds,(19) kāds,(20) kāds,(21) kāds,(22) kāds,(23) kāds,(24) kāds,(25) kāds,(26) kāds,(27) kāds,(28) kāds,(29) kāds,(30) kāds,(31) kāds,(32) kāds,(33) kāds,(34) kāds,(35)"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Diemžēl gārņi kautrējas.(1) Toties vārnai Liepājā ir piemineklis.(2) Karr!(3)",
+        "reference": "(1) Punkts norāda teikuma beigas.\n(2) Punkts norāda teikuma beigas.\n(3) Izsaukuma zīme norāda izsaukuma vārdu.",
+        "generated": "(1) Punkts norāda teikuma beigas. (2) Komats atdala vienlīdzīgus teikuma locekļus. (3) Izsaukuma zīme norāda izsaukuma teikumu. #1 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Visskaistākajos vakaros,(1) spārnus plivinādami,(2) putni plecu pie pleca salaižas uz Ziemeļu mola vērot saulrietu.(3)",
+        "reference": "(1) Komats atdala divdabja teicienu.\n(2) Komats atdala divdabja teicienu.\n(3) Punkts norāda teikuma beigas.",
+        "generated": "(4)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Punkts norāda teikuma beigas. \n(4) Pēdiņas atdala vienlīdzīgus teikuma dēļniekus. \nSvešinieks,(1) kurš bija ieradies uz mūsu pilsētu,(2) pēc dažiem gadiem atgriezās un paziņoja,(3) ka viņš ir mūsu pilsētas iedzīvotājs.(4)\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala palīgteikumu.\n(4) Punkts norāda teikuma beigas. (1) #1. 1.1.1.1.1.1.1"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Kormorāns blakus paugurknābja zosij,(1) cekulpīle blakus purva ķauķim,(2) un pašā galā tārtiņš,(3) no Līvu krasta atlaidies,(4) klusiņām purpina lībiešu valodā.(5)",
+        "reference": "(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala divdabja teicienu.\n(4) Komats atdala divdabja teicienu.\n(5) Punkts norāda teikuma beigas.",
+        "generated": "((6))\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdzīgus teikuma locekļus.\n(3) Komats atdala vienlīdzīgus teikuma locekļus.\n(4) Komats atdala vienlīdzīgus teikuma locekļus.\n(5) Punkts norāda teikuma beigas.\n(6) Pēdiņas atdala tiešo runu.Portály\nCormorant blakus paugurknābja zosij,(1) cekulpīle blakus purva ķauķim,(2) un pašā galā tārtiņš,(3) no Līvu krasta atlaidies,(4) klusiņās purpina lībiešu valodā.(5)\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdz"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Rudenī viņi lūr pa Liepājas skolu logiem.(1)",
+        "reference": "(1) Punkts norāda teikuma beigas.",
+        "generated": "(1) Punkts norāda teikuma beigas. \nKādā no šiem skolēniem esmu?(2) (2) Jautājuma zīme norāda jautājuma teikumu. \nKādā no šiem skolēniem esmu?(3) (3) Jautājuma zīme norāda jautājuma teikumu. \nEs esmu viņš,(4) kas esmu dzīvojis visu šo laiku.(5) (4) Komats atdala palīgteikumu.(5) Izsaukuma zīme norāda izsaukuma teikumu. \nEs esmu viņš,(6) kas esmu dzīvojis visu šo laiku.(7) (6) Komats atdala palīgteikumu.(7) Izsaukuma zīme norāda izsaukuma teikumu. \nEs esmu viņš,(8) kas esmu dzīvojis visu šo laiku.(9) (8) Komats atdala pal"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Ieraugot gramatiskās kļūdas,(1) saķer apaļās galveles un spalgi čiepst priekšā:(2) \"(3)Stulbs nav stūlbs,(4) albums nav albūms,(5) mobilais nav nekāds mobīlais!(6) Čiv!(7)\"(8)",
+        "reference": "(1) Komats atdala divdabja teicienu.\n(2) Kols ievada tiešo runu.\n(3) Pēdiņas atdala tiešo runu.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala vienlīdzīgas teikuma daļas.\n(6) Izsaukuma zīme norāda izsaukuma teikumu.\n(7) Izsaukuma zīme norāda izsaukuma vārdu.\n(8) Pēdiņas atdala tiešo runu.",
+        "generated": "\"(9)Kāds ir šis stulbs?(10)\"(11) \"(12)Kāds ir šis albums?(13)\"(14) \"(15)Kāds ir šis mobīlais?(16)\"(17)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Kols atdala vienlīdzīgas teikuma daļas.\n(3) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala vienlīdzīgas teikuma daļas.\n(6) Izsaukuma zīme norāda izsaukuma teikumu.\n(7) Izsaukuma zīme norāda izsaukuma teikumu.\n(8) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(9) Komats atdala vienlīdzīgas teikuma"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Klau,(1) vai tagad arī uz palodzes negrabinās viena zilzīlīte?(2) ",
+        "reference": "(1) Komats atdala izsaukuma vārdu.\n(2) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "1). Komats atdala vienlīdzīgus teikuma locekļus.\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Jautājuma zīme norāda jautājuma teikumu. \nSavukārt,(1) ja jūs vēlaties,(2) varat arī izvēlēties,(3) ka viņš būtu jūsu dārgākais.(4) 1). Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdzīgus teikuma locekļus.\n(3) Komats atdala vienlīdzīgus teikuma locekļus.\n(4) Punkts norāda teikuma beigas. \nSavukārt,(1) ja jūs vēlaties,(2) varat arī izvēlēties,(3) ka viņš būtu jūsu dā"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Ko,(1) ko viņa tur čiepst?(2)",
+        "reference": "(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "(1) Komats atdala vienlīdzīgus teikuma locekļus.(2) (3) \"(4)Kāds mani mīl?\"(5) viņa izrunāja.(6)\n(1) Komats atdala palīgteikumu.\n(2) Punkts norāda teikuma beigas.\n(3) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(4) Pēdiņas atdala palīgteikumu.\n(5) Pēdiņas atdala palīgteikumu.\n(6) Punkts norāda teikuma beigas. #1\n(7) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(8) Punkts norāda teikuma beigas.\n(9) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(10) Punkts norāda teikuma beigas.\n(11) Pēdiņas atdala vien"
+      }
+    ]
+  },
+  {
+    "run": 2,
+    "outputs": [
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Kurš liepājnieks gan nezina,(1) ka Liepājā,(2) Zirgu salā,(3) ir putnu vērošanas tornis?(4)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Komats atdala savrupinājumu.\n(3) Komats atdala savrupinājumu.\n(4) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "(5)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala palīgteikumu.\n(4) Jautājuma zīme norāda jautājuma teikumu.\n(5) Pēdiņas atdala tiešo runu.?family#1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Bet kurš ir pamanījis,(1) ka arī putni vēro Liepāju?(2)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "(2)://>\n(1) Komats atdala iespraudu.\n(2) Jautājuma zīme norāda jautājuma teikumu.1. Iespējams,(1) ka viņš ir bijis pārsteigts,(2) kad viņa vārds ir izskaidrots.(3)\n(1) Komats atdala iespraudu.\n(2) Komats atdala iespraudu.\n(3) Punkts norāda teikuma beigas.1. Iespējams,(1) ka viņš ir bijis pārsteigts,(2) kad viņa vārds ir izskaidrots.(3)\n(1) Komats atdala iespraudu.\n(2) Komats atdala iespraudu.\n(3) Punkts norāda teikuma beigas.1. Iespējams,(1) ka viņš ir bijis pārsteigts,(2) kad viņa vārds ir izskaidrots.(3"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Brīnās,(1) bola acis un groza galvas,(2) un bezkaunīgi planē pāri kafejnīcu galdiņiem,(3) lai ieskatītos nelidojošo divkāju šķīvjos.(4)",
+        "reference": "(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdzīgus teikuma locekļus.\n(3) Komats atdala palīgteikumu.\n(4) Punkts norāda teikuma beigas.",
+        "generated": "!(5)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala palīgteikumu.\n(4) Izsaukuma zīme norāda izsaukuma teikumu.\n(5) Izsaukuma zīme norāda izsaukuma teikumu.?familya.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Liepājā ir daudz noslēpumaina,(1) par ko brīnīties.(2)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Punkts norāda teikuma beigas.",
+        "generated": "Vai jūs zināt,(3) ka Liepājā ir daudz īpašu,(4) kas nav redzams,(5) bet ir?(6)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala palīgteikumu.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala palīgteikumu.\n(6) Jautājuma zīme norāda jautājuma teikumu.1. Iespējamie pārdevēji ir ārvalstīs,(1) bet arī Latvijā.(2)\n(1) Komats atdala palīgteikumu.\n(2) Punkts norāda teikuma beigas.1. Iespējamie pārdevēji ir ārvalstīs,(1) bet arī Latvijā.(2)\n(1) Komats atdala palīgteikumu.\n(2) Punkts norā"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Piemēram,(1) naktīs,(2) kad ne tikvien mēness piesprausts pie debesu samta kā zelta ananass,(3) bet arī zvaigznes izbārstītas no Dieva atvilktnēm.(4)",
+        "reference": "(1) Komats atdala iespraudumu.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Punkts norāda teikuma beigas.",
+        "generated": "!(5)\n(1) Komats atdala iespraudumu.\n(2) Komats atdala iespraudumu.\n(3) Komats atdala palīgteikumu.\n(4) Jautājuma zīme norāda jautājuma teikumu.\n(5) Izsaukuma zīme norāda izsaukuma teikumu.1. Iespējams,(1) ka viņš bija iemīļojis to,(2) kādai viņš bija atvēlējis savu dzīvi.(3)\n(1) Komats atdala iespraudumu.\n(2) Komats atdala iespraudumu.\n(3) Punkts norāda teikuma beigas.1. Iespējams,(1) ka viņš bija iemīļojis to,(2) kādai viņš bija atvēlējis savu dzīvi.(3)\n(1) Komats atdala iespraudumu.\n(2) Komats atdala iespraudumu"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Tad tur,(1) lejā,(2) zīriņiem par brīnumu,(3) kaut kas iekvēlojas kā milzīgs ugunskurs,(4) un tam viducī vītero kanārijputniņu bars.(5)",
+        "reference": "(1) Komats atdala savrupinājumu.\n(2) Komats atdala savrupinājumu.\n(3) Komats atdala iespraudumu.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Punkts norāda teikuma beigas.",
+        "generated": "(6)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Komats atdala palīgteikumu.\n(5) Punkts norāda teikuma beigas.\n(6) Pēdiņas atdala tiešo runu. councillieks1\nMēs esam vienīgie,(1) kas šajā pilsētā,(2) kas nevarētu izskatīties kā kāda ārām pārāk ļoti īpaša.(3)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Punkts norāda teikuma beigas. councillieks1\nUn,(1) kā jau bija teicis,(2) viņš bija iemīļojis to,(3"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "\"(1)Kas tas ir?(2) Kas tas ir?(3)\"(4) sakliedzas kaijas.(5)",
+        "reference": "(1) Pēdiņas atdala tiešo runu.\n(2) Jautājuma zīme norāda jautājuma teikumu.\n(3) Jautājuma zīme norāda jautājuma teikumu.\n(4) Pēdiņas atdala tiešo runu.\n(5) Punkts norāda teikuma beigas.",
+        "generated": "\"(6)Kas tas ir?(7)\"(8) sakliedzas kaijas.(9)\n(1) Pēdiņas atdala tiešo runu.\n(2) Jautājuma zīme norāda jautājuma teikumu.\n(3) Pēdiņas atdala tiešo runu.\n(4) Pēdiņas atdala tiešo runu.\n(5) Komats atdala vienlīdzīgas teikuma daļas.\n(6) Pēdiņas atdala tiešo runu.\n(7) Jautājuma zīme norāda jautājuma teikumu.\n(8) Pēdiņas atdala tiešo runu.\n(9) Komats atdala vienlīdzīgas teikuma daļas. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Tām neviens nav izstāstījis par koncertzāli \"(1)Lielais dzintars\"(2) un simfonisko orķestri.(3)",
+        "reference": "(1) Pēdiņas atdala nosaukto entitāti.\n(2) Pēdiņas atdala nosaukto entitāti.\n(3) Punkts norāda teikuma beigas.",
+        "generated": "\"(4)Kāds mani pārsteigts,(5) ka šīs zāles ir tik pilnas cilvēkiem,(6) un neviens nezin,(7) ka šeit ir simfoniskais orķestris,(8) kas spēlē,(9) un neviens nezin,(10) ka šeit ir koncertzāle \"(11)Lielais dzintars\"(12).(13)\n(1) Pēdiņas atdala nosaukto entitāti.\n(2) Pēdiņas atdala nosaukto entitāti.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Kols atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala palīgteikumu.\n(6) Komats atdala palīgteikumu.\n(7) Komats atdala palīgteikumu.\n(8) Komats atdala palīgteikumu.\n(9) Komats atdala palīgteikumu.\n(10) Komats atd"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Vēl viņi nesaprot,(1) kāpēc jaukie Liepājas baznīcu torņi ik pa laikam sajūk prātā un pēkšņi sākas tāda dārdoņa,(2) it kā tajos būtu ielauzušies kazuāri:(3) \"(4)Bom!(5) Bom!(6) Bom!(7)\"(8)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Kols ievada tiešo runu.\n(4) Pēdiņas atdala tiešo runu.\n(5) Izsaukuma zīme norāda izsaukuma vārdu.\n(6) Izsaukuma zīme norāda izsaukuma vārdu.\n(7) Izsaukuma zīme norāda izsaukuma vārdu.\n(8) Pēdiņas atdala tiešo runu.",
+        "generated": "\"(9)Bom!(10) Bom!(11) Bom!(12)\"(13) \"(14)Bom!(15) Bom!(16) Bom!(17)\"(18) \"(19)Bom!(20) Bom!(21) Bom!(22)\"(23) \"(24)Bom!(25) Bom!(26) Bom!(27)\"(28) \"(29)Bom!(30) Bom!(31) Bom!(32)\"(33) \"(34)Bom!(35) Bom!(36) Bom!(37)\"(38) \"(39)Bom!(40) Bom!(41) Bom!(42)\"(43) \"(44)Bom!(45) Bom!(46) Bom!(47)\"(48) \"(49)Bom!(50) Bom!(51) Bom!(52)\"(53) \"(54)Bom!(55) Bom!(56) Bom!(57)\"(58) \"(59)Bom!(60) Bom!(61) Bom!(62)\"(63) \"(64)Bom!(65) Bom!(66) Bom!(67)\"(68) \"(69)Bom!(70) Bom!(71) Bom!(72)\"(73) \"(74)Bom!(75) Bom"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Un kas notiek Graudu ielas smalkāko namu augstumos?(1)",
+        "reference": "(1) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "(2)\n(1) Jautājuma zīme norāda jautājuma teikumu.\n(2) Pēdiņas atdala tiešo runu.Portály\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas sm"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Tur nometas estēti baloži,(1) kas dievina jūgendstilu.(2)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Punkts norāda teikuma beigas.",
+        "generated": "\"(3)Kāds no jūgendstila māksliniekiem,(4) kas ir šeit,(5) varētu būt arī mūsu mākslinieks,(6) jo viņš arī mākslinieks.(7)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Kols ievada tiešo runu.\n(4) Komats atdala palīgteikumu.\n(5) Komats atdala palīgteikumu.\n(6) Komats atdala palīgteikumu.\n(7) Punkts norāda teikuma beigas.�}ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Ak,(1) tie lieliskie izciļņi,(2) kur dūdojot griezt mīlas dejas,(3) un iedobumi,(4) kur sastiept liepās salauztos zariņus minimālisma stilā ieturētajām ligzdām!(5)",
+        "reference": "(1) Komats atdala izsaukuma vārdu.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala palīgteikumu.\n(4) Komats atdala palīgteikumu.\n(5) Izsaukuma zīme norāda izsaukuma teikumu.",
+        "generated": "(6)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Izsaukuma zīme norāda izsaukuma teikumu.\n(6) Punkts norāda teikuma beigas.���ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Kormorāni,(1) viltnieki,(2) jau trešo gadu perina bruņotu laupīšanas uzbrukumu Zivju tirgum Liepājas promenādē,(3) tikai nevar sagaidīt(4), kad to atkal atvērs.(5)",
+        "reference": "(1) Komats atdala savrupinājumu.\n(2) Komats atdala savrupinājumu.\n(3) Komats atdala vienlīdzīgus teikuma locekļus.\n(4) Komats atdala palīgteikumu.\n(5) Punkts norāda teikuma beigas.",
+        "generated": "\"(6)\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdzīgus teikuma locekļus.\n(3) Komats atdala palīgteikumu.\n(4) Komats atdala palīgteikumu.\n(5) Punkts norāda teikuma beigas.\n(6) Pēdiņas atdala tiešo runu.?family#1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Čurkstes slepeni skatās Liepājas teātra izrādes,(1) bet pēc tam sajūsmā savidžinās.(2)",
+        "reference": "(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Punkts norāda teikuma beigas.",
+        "generated": "(2)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Punkts norāda teikuma beigas.�\nGribiņa,(1) kādā viņš bija iemītis,(2) viņu atstāja,(3) un viņš,(4) atstājot savu māju,(5) aizbrauca uz pilsētu.(6)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala vienlīdzīgas teikuma daļas.\n(6) Punkts norāda teikuma beigas.�\nSavukārt,(1) ja viņš bū"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Bet zivju gārņi sapņo,(1) garās kājas cilājot,(2) pastaigāt pa Rožu laukuma dobēm.(3)",
+        "reference": "(1) Komats atdala divdabja teicienu.\n(2) Komats atdala divdabja teicienu.\n(3) Punkts norāda teikuma beigas.",
+        "generated": "(1) Komats atdala vienlīdzīgus teikuma locekļus.(2) Aizbalojums atdala tiešo runu un balsojuma zīmi.(3) Cits atdala vienlīdzīgus teikuma locekļus.((4))(4)((5))(6)\nKāds,(7) kāds,(8) kāds,(9) kāds,(10) kāds,(11) kāds,(12) kāds,(13) kāds,(14) kāds,(15) kāds,(16) kāds,(17) kāds,(18) kāds,(19) kāds,(20) kāds,(21) kāds,(22) kāds,(23) kāds,(24) kāds,(25) kāds,(26) kāds,(27) kāds,(28) kāds,(29) kāds,(30) kāds,(31) kāds,(32) kāds,(33) kāds,(34) kāds,(35)"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Diemžēl gārņi kautrējas.(1) Toties vārnai Liepājā ir piemineklis.(2) Karr!(3)",
+        "reference": "(1) Punkts norāda teikuma beigas.\n(2) Punkts norāda teikuma beigas.\n(3) Izsaukuma zīme norāda izsaukuma vārdu.",
+        "generated": "(1) Punkts norāda teikuma beigas. (2) Komats atdala vienlīdzīgus teikuma locekļus. (3) Izsaukuma zīme norāda izsaukuma teikumu. #1 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Visskaistākajos vakaros,(1) spārnus plivinādami,(2) putni plecu pie pleca salaižas uz Ziemeļu mola vērot saulrietu.(3)",
+        "reference": "(1) Komats atdala divdabja teicienu.\n(2) Komats atdala divdabja teicienu.\n(3) Punkts norāda teikuma beigas.",
+        "generated": "(4)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Punkts norāda teikuma beigas. \n(4) Pēdiņas atdala vienlīdzīgus teikuma dēļniekus. \nSvešinieks,(1) kurš bija ieradies uz mūsu pilsētu,(2) pēc dažiem gadiem atgriezās un paziņoja,(3) ka viņš ir mūsu pilsētas iedzīvotājs.(4)\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala palīgteikumu.\n(4) Punkts norāda teikuma beigas. (1) #1. 1.1.1.1.1.1.1"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Kormorāns blakus paugurknābja zosij,(1) cekulpīle blakus purva ķauķim,(2) un pašā galā tārtiņš,(3) no Līvu krasta atlaidies,(4) klusiņām purpina lībiešu valodā.(5)",
+        "reference": "(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala divdabja teicienu.\n(4) Komats atdala divdabja teicienu.\n(5) Punkts norāda teikuma beigas.",
+        "generated": "((6))\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdzīgus teikuma locekļus.\n(3) Komats atdala vienlīdzīgus teikuma locekļus.\n(4) Komats atdala vienlīdzīgus teikuma locekļus.\n(5) Punkts norāda teikuma beigas.\n(6) Pēdiņas atdala tiešo runu.Portály\nCormorant blakus paugurknābja zosij,(1) cekulpīle blakus purva ķauķim,(2) un pašā galā tārtiņš,(3) no Līvu krasta atlaidies,(4) klusiņās purpina lībiešu valodā.(5)\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdz"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Rudenī viņi lūr pa Liepājas skolu logiem.(1)",
+        "reference": "(1) Punkts norāda teikuma beigas.",
+        "generated": "(1) Punkts norāda teikuma beigas. \nKādā no šiem skolēniem esmu?(2) (2) Jautājuma zīme norāda jautājuma teikumu. \nKādā no šiem skolēniem esmu?(3) (3) Jautājuma zīme norāda jautājuma teikumu. \nEs esmu viņš,(4) kas esmu dzīvojis visu šo laiku.(5) (4) Komats atdala palīgteikumu.(5) Izsaukuma zīme norāda izsaukuma teikumu. \nEs esmu viņš,(6) kas esmu dzīvojis visu šo laiku.(7) (6) Komats atdala palīgteikumu.(7) Izsaukuma zīme norāda izsaukuma teikumu. \nEs esmu viņš,(8) kas esmu dzīvojis visu šo laiku.(9) (8) Komats atdala pal"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Ieraugot gramatiskās kļūdas,(1) saķer apaļās galveles un spalgi čiepst priekšā:(2) \"(3)Stulbs nav stūlbs,(4) albums nav albūms,(5) mobilais nav nekāds mobīlais!(6) Čiv!(7)\"(8)",
+        "reference": "(1) Komats atdala divdabja teicienu.\n(2) Kols ievada tiešo runu.\n(3) Pēdiņas atdala tiešo runu.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala vienlīdzīgas teikuma daļas.\n(6) Izsaukuma zīme norāda izsaukuma teikumu.\n(7) Izsaukuma zīme norāda izsaukuma vārdu.\n(8) Pēdiņas atdala tiešo runu.",
+        "generated": "\"(9)Kāds ir šis stulbs?(10)\"(11) \"(12)Kāds ir šis albums?(13)\"(14) \"(15)Kāds ir šis mobīlais?(16)\"(17)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Kols atdala vienlīdzīgas teikuma daļas.\n(3) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala vienlīdzīgas teikuma daļas.\n(6) Izsaukuma zīme norāda izsaukuma teikumu.\n(7) Izsaukuma zīme norāda izsaukuma teikumu.\n(8) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(9) Komats atdala vienlīdzīgas teikuma"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Klau,(1) vai tagad arī uz palodzes negrabinās viena zilzīlīte?(2) ",
+        "reference": "(1) Komats atdala izsaukuma vārdu.\n(2) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "1). Komats atdala vienlīdzīgus teikuma locekļus.\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Jautājuma zīme norāda jautājuma teikumu. \nSavukārt,(1) ja jūs vēlaties,(2) varat arī izvēlēties,(3) ka viņš būtu jūsu dārgākais.(4) 1). Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdzīgus teikuma locekļus.\n(3) Komats atdala vienlīdzīgus teikuma locekļus.\n(4) Punkts norāda teikuma beigas. \nSavukārt,(1) ja jūs vēlaties,(2) varat arī izvēlēties,(3) ka viņš būtu jūsu dā"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Ko,(1) ko viņa tur čiepst?(2)",
+        "reference": "(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "(1) Komats atdala vienlīdzīgus teikuma locekļus.(2) (3) \"(4)Kāds mani mīl?\"(5) viņa izrunāja.(6)\n(1) Komats atdala palīgteikumu.\n(2) Punkts norāda teikuma beigas.\n(3) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(4) Pēdiņas atdala palīgteikumu.\n(5) Pēdiņas atdala palīgteikumu.\n(6) Punkts norāda teikuma beigas. #1\n(7) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(8) Punkts norāda teikuma beigas.\n(9) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(10) Punkts norāda teikuma beigas.\n(11) Pēdiņas atdala vien"
+      }
+    ]
+  },
+  {
+    "run": 3,
+    "outputs": [
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Kurš liepājnieks gan nezina,(1) ka Liepājā,(2) Zirgu salā,(3) ir putnu vērošanas tornis?(4)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Komats atdala savrupinājumu.\n(3) Komats atdala savrupinājumu.\n(4) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "(5)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala palīgteikumu.\n(4) Jautājuma zīme norāda jautājuma teikumu.\n(5) Pēdiņas atdala tiešo runu.?family#1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Bet kurš ir pamanījis,(1) ka arī putni vēro Liepāju?(2)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "(2)://>\n(1) Komats atdala iespraudu.\n(2) Jautājuma zīme norāda jautājuma teikumu.1. Iespējams,(1) ka viņš ir bijis pārsteigts,(2) kad viņa vārds ir izskaidrots.(3)\n(1) Komats atdala iespraudu.\n(2) Komats atdala iespraudu.\n(3) Punkts norāda teikuma beigas.1. Iespējams,(1) ka viņš ir bijis pārsteigts,(2) kad viņa vārds ir izskaidrots.(3)\n(1) Komats atdala iespraudu.\n(2) Komats atdala iespraudu.\n(3) Punkts norāda teikuma beigas.1. Iespējams,(1) ka viņš ir bijis pārsteigts,(2) kad viņa vārds ir izskaidrots.(3"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Brīnās,(1) bola acis un groza galvas,(2) un bezkaunīgi planē pāri kafejnīcu galdiņiem,(3) lai ieskatītos nelidojošo divkāju šķīvjos.(4)",
+        "reference": "(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdzīgus teikuma locekļus.\n(3) Komats atdala palīgteikumu.\n(4) Punkts norāda teikuma beigas.",
+        "generated": "!(5)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala palīgteikumu.\n(4) Izsaukuma zīme norāda izsaukuma teikumu.\n(5) Izsaukuma zīme norāda izsaukuma teikumu.?familya.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Liepājā ir daudz noslēpumaina,(1) par ko brīnīties.(2)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Punkts norāda teikuma beigas.",
+        "generated": "Vai jūs zināt,(3) ka Liepājā ir daudz īpašu,(4) kas nav redzams,(5) bet ir?(6)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala palīgteikumu.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala palīgteikumu.\n(6) Jautājuma zīme norāda jautājuma teikumu.1. Iespējamie pārdevēji ir ārvalstīs,(1) bet arī Latvijā.(2)\n(1) Komats atdala palīgteikumu.\n(2) Punkts norāda teikuma beigas.1. Iespējamie pārdevēji ir ārvalstīs,(1) bet arī Latvijā.(2)\n(1) Komats atdala palīgteikumu.\n(2) Punkts norā"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Piemēram,(1) naktīs,(2) kad ne tikvien mēness piesprausts pie debesu samta kā zelta ananass,(3) bet arī zvaigznes izbārstītas no Dieva atvilktnēm.(4)",
+        "reference": "(1) Komats atdala iespraudumu.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Punkts norāda teikuma beigas.",
+        "generated": "!(5)\n(1) Komats atdala iespraudumu.\n(2) Komats atdala iespraudumu.\n(3) Komats atdala palīgteikumu.\n(4) Jautājuma zīme norāda jautājuma teikumu.\n(5) Izsaukuma zīme norāda izsaukuma teikumu.1. Iespējams,(1) ka viņš bija iemīļojis to,(2) kādai viņš bija atvēlējis savu dzīvi.(3)\n(1) Komats atdala iespraudumu.\n(2) Komats atdala iespraudumu.\n(3) Punkts norāda teikuma beigas.1. Iespējams,(1) ka viņš bija iemīļojis to,(2) kādai viņš bija atvēlējis savu dzīvi.(3)\n(1) Komats atdala iespraudumu.\n(2) Komats atdala iespraudumu"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Tad tur,(1) lejā,(2) zīriņiem par brīnumu,(3) kaut kas iekvēlojas kā milzīgs ugunskurs,(4) un tam viducī vītero kanārijputniņu bars.(5)",
+        "reference": "(1) Komats atdala savrupinājumu.\n(2) Komats atdala savrupinājumu.\n(3) Komats atdala iespraudumu.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Punkts norāda teikuma beigas.",
+        "generated": "(6)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Komats atdala palīgteikumu.\n(5) Punkts norāda teikuma beigas.\n(6) Pēdiņas atdala tiešo runu. councillieks1\nMēs esam vienīgie,(1) kas šajā pilsētā,(2) kas nevarētu izskatīties kā kāda ārām pārāk ļoti īpaša.(3)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Punkts norāda teikuma beigas. councillieks1\nUn,(1) kā jau bija teicis,(2) viņš bija iemīļojis to,(3"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "\"(1)Kas tas ir?(2) Kas tas ir?(3)\"(4) sakliedzas kaijas.(5)",
+        "reference": "(1) Pēdiņas atdala tiešo runu.\n(2) Jautājuma zīme norāda jautājuma teikumu.\n(3) Jautājuma zīme norāda jautājuma teikumu.\n(4) Pēdiņas atdala tiešo runu.\n(5) Punkts norāda teikuma beigas.",
+        "generated": "\"(6)Kas tas ir?(7)\"(8) sakliedzas kaijas.(9)\n(1) Pēdiņas atdala tiešo runu.\n(2) Jautājuma zīme norāda jautājuma teikumu.\n(3) Pēdiņas atdala tiešo runu.\n(4) Pēdiņas atdala tiešo runu.\n(5) Komats atdala vienlīdzīgas teikuma daļas.\n(6) Pēdiņas atdala tiešo runu.\n(7) Jautājuma zīme norāda jautājuma teikumu.\n(8) Pēdiņas atdala tiešo runu.\n(9) Komats atdala vienlīdzīgas teikuma daļas. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Tām neviens nav izstāstījis par koncertzāli \"(1)Lielais dzintars\"(2) un simfonisko orķestri.(3)",
+        "reference": "(1) Pēdiņas atdala nosaukto entitāti.\n(2) Pēdiņas atdala nosaukto entitāti.\n(3) Punkts norāda teikuma beigas.",
+        "generated": "\"(4)Kāds mani pārsteigts,(5) ka šīs zāles ir tik pilnas cilvēkiem,(6) un neviens nezin,(7) ka šeit ir simfoniskais orķestris,(8) kas spēlē,(9) un neviens nezin,(10) ka šeit ir koncertzāle \"(11)Lielais dzintars\"(12).(13)\n(1) Pēdiņas atdala nosaukto entitāti.\n(2) Pēdiņas atdala nosaukto entitāti.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Kols atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala palīgteikumu.\n(6) Komats atdala palīgteikumu.\n(7) Komats atdala palīgteikumu.\n(8) Komats atdala palīgteikumu.\n(9) Komats atdala palīgteikumu.\n(10) Komats atd"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Vēl viņi nesaprot,(1) kāpēc jaukie Liepājas baznīcu torņi ik pa laikam sajūk prātā un pēkšņi sākas tāda dārdoņa,(2) it kā tajos būtu ielauzušies kazuāri:(3) \"(4)Bom!(5) Bom!(6) Bom!(7)\"(8)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Kols ievada tiešo runu.\n(4) Pēdiņas atdala tiešo runu.\n(5) Izsaukuma zīme norāda izsaukuma vārdu.\n(6) Izsaukuma zīme norāda izsaukuma vārdu.\n(7) Izsaukuma zīme norāda izsaukuma vārdu.\n(8) Pēdiņas atdala tiešo runu.",
+        "generated": "\"(9)Bom!(10) Bom!(11) Bom!(12)\"(13) \"(14)Bom!(15) Bom!(16) Bom!(17)\"(18) \"(19)Bom!(20) Bom!(21) Bom!(22)\"(23) \"(24)Bom!(25) Bom!(26) Bom!(27)\"(28) \"(29)Bom!(30) Bom!(31) Bom!(32)\"(33) \"(34)Bom!(35) Bom!(36) Bom!(37)\"(38) \"(39)Bom!(40) Bom!(41) Bom!(42)\"(43) \"(44)Bom!(45) Bom!(46) Bom!(47)\"(48) \"(49)Bom!(50) Bom!(51) Bom!(52)\"(53) \"(54)Bom!(55) Bom!(56) Bom!(57)\"(58) \"(59)Bom!(60) Bom!(61) Bom!(62)\"(63) \"(64)Bom!(65) Bom!(66) Bom!(67)\"(68) \"(69)Bom!(70) Bom!(71) Bom!(72)\"(73) \"(74)Bom!(75) Bom"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Un kas notiek Graudu ielas smalkāko namu augstumos?(1)",
+        "reference": "(1) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "(2)\n(1) Jautājuma zīme norāda jautājuma teikumu.\n(2) Pēdiņas atdala tiešo runu.Portály\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas smalkāko namu augstumos.(1)\n(1) Punkts norāda teikuma beigas. nuestaunība1.jpg\nGraudu ielas sm"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Tur nometas estēti baloži,(1) kas dievina jūgendstilu.(2)",
+        "reference": "(1) Komats atdala palīgteikumu.\n(2) Punkts norāda teikuma beigas.",
+        "generated": "\"(3)Kāds no jūgendstila māksliniekiem,(4) kas ir šeit,(5) varētu būt arī mūsu mākslinieks,(6) jo viņš arī mākslinieks.(7)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala palīgteikumu.\n(3) Kols ievada tiešo runu.\n(4) Komats atdala palīgteikumu.\n(5) Komats atdala palīgteikumu.\n(6) Komats atdala palīgteikumu.\n(7) Punkts norāda teikuma beigas.�}ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß*ß"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Ak,(1) tie lieliskie izciļņi,(2) kur dūdojot griezt mīlas dejas,(3) un iedobumi,(4) kur sastiept liepās salauztos zariņus minimālisma stilā ieturētajām ligzdām!(5)",
+        "reference": "(1) Komats atdala izsaukuma vārdu.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala palīgteikumu.\n(4) Komats atdala palīgteikumu.\n(5) Izsaukuma zīme norāda izsaukuma teikumu.",
+        "generated": "(6)\n(1) Komats atdala palīgteikumu.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Izsaukuma zīme norāda izsaukuma teikumu.\n(6) Punkts norāda teikuma beigas.���ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Kormorāni,(1) viltnieki,(2) jau trešo gadu perina bruņotu laupīšanas uzbrukumu Zivju tirgum Liepājas promenādē,(3) tikai nevar sagaidīt(4), kad to atkal atvērs.(5)",
+        "reference": "(1) Komats atdala savrupinājumu.\n(2) Komats atdala savrupinājumu.\n(3) Komats atdala vienlīdzīgus teikuma locekļus.\n(4) Komats atdala palīgteikumu.\n(5) Punkts norāda teikuma beigas.",
+        "generated": "\"(6)\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdzīgus teikuma locekļus.\n(3) Komats atdala palīgteikumu.\n(4) Komats atdala palīgteikumu.\n(5) Punkts norāda teikuma beigas.\n(6) Pēdiņas atdala tiešo runu.?family#1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Čurkstes slepeni skatās Liepājas teātra izrādes,(1) bet pēc tam sajūsmā savidžinās.(2)",
+        "reference": "(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Punkts norāda teikuma beigas.",
+        "generated": "(2)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Punkts norāda teikuma beigas.�\nGribiņa,(1) kādā viņš bija iemītis,(2) viņu atstāja,(3) un viņš,(4) atstājot savu māju,(5) aizbrauca uz pilsētu.(6)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala vienlīdzīgas teikuma daļas.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala vienlīdzīgas teikuma daļas.\n(6) Punkts norāda teikuma beigas.�\nSavukārt,(1) ja viņš bū"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Bet zivju gārņi sapņo,(1) garās kājas cilājot,(2) pastaigāt pa Rožu laukuma dobēm.(3)",
+        "reference": "(1) Komats atdala divdabja teicienu.\n(2) Komats atdala divdabja teicienu.\n(3) Punkts norāda teikuma beigas.",
+        "generated": "(1) Komats atdala vienlīdzīgus teikuma locekļus.(2) Aizbalojums atdala tiešo runu un balsojuma zīmi.(3) Cits atdala vienlīdzīgus teikuma locekļus.((4))(4)((5))(6)\nKāds,(7) kāds,(8) kāds,(9) kāds,(10) kāds,(11) kāds,(12) kāds,(13) kāds,(14) kāds,(15) kāds,(16) kāds,(17) kāds,(18) kāds,(19) kāds,(20) kāds,(21) kāds,(22) kāds,(23) kāds,(24) kāds,(25) kāds,(26) kāds,(27) kāds,(28) kāds,(29) kāds,(30) kāds,(31) kāds,(32) kāds,(33) kāds,(34) kāds,(35)"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Diemžēl gārņi kautrējas.(1) Toties vārnai Liepājā ir piemineklis.(2) Karr!(3)",
+        "reference": "(1) Punkts norāda teikuma beigas.\n(2) Punkts norāda teikuma beigas.\n(3) Izsaukuma zīme norāda izsaukuma vārdu.",
+        "generated": "(1) Punkts norāda teikuma beigas. (2) Komats atdala vienlīdzīgus teikuma locekļus. (3) Izsaukuma zīme norāda izsaukuma teikumu. #1 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Visskaistākajos vakaros,(1) spārnus plivinādami,(2) putni plecu pie pleca salaižas uz Ziemeļu mola vērot saulrietu.(3)",
+        "reference": "(1) Komats atdala divdabja teicienu.\n(2) Komats atdala divdabja teicienu.\n(3) Punkts norāda teikuma beigas.",
+        "generated": "(4)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Punkts norāda teikuma beigas. \n(4) Pēdiņas atdala vienlīdzīgus teikuma dēļniekus. \nSvešinieks,(1) kurš bija ieradies uz mūsu pilsētu,(2) pēc dažiem gadiem atgriezās un paziņoja,(3) ka viņš ir mūsu pilsētas iedzīvotājs.(4)\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala palīgteikumu.\n(3) Komats atdala palīgteikumu.\n(4) Punkts norāda teikuma beigas. (1) #1. 1.1.1.1.1.1.1"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Kormorāns blakus paugurknābja zosij,(1) cekulpīle blakus purva ķauķim,(2) un pašā galā tārtiņš,(3) no Līvu krasta atlaidies,(4) klusiņām purpina lībiešu valodā.(5)",
+        "reference": "(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Komats atdala vienlīdzīgas teikuma daļas.\n(3) Komats atdala divdabja teicienu.\n(4) Komats atdala divdabja teicienu.\n(5) Punkts norāda teikuma beigas.",
+        "generated": "((6))\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdzīgus teikuma locekļus.\n(3) Komats atdala vienlīdzīgus teikuma locekļus.\n(4) Komats atdala vienlīdzīgus teikuma locekļus.\n(5) Punkts norāda teikuma beigas.\n(6) Pēdiņas atdala tiešo runu.Portály\nCormorant blakus paugurknābja zosij,(1) cekulpīle blakus purva ķauķim,(2) un pašā galā tārtiņš,(3) no Līvu krasta atlaidies,(4) klusiņās purpina lībiešu valodā.(5)\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdz"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Rudenī viņi lūr pa Liepājas skolu logiem.(1)",
+        "reference": "(1) Punkts norāda teikuma beigas.",
+        "generated": "(1) Punkts norāda teikuma beigas. \nKādā no šiem skolēniem esmu?(2) (2) Jautājuma zīme norāda jautājuma teikumu. \nKādā no šiem skolēniem esmu?(3) (3) Jautājuma zīme norāda jautājuma teikumu. \nEs esmu viņš,(4) kas esmu dzīvojis visu šo laiku.(5) (4) Komats atdala palīgteikumu.(5) Izsaukuma zīme norāda izsaukuma teikumu. \nEs esmu viņš,(6) kas esmu dzīvojis visu šo laiku.(7) (6) Komats atdala palīgteikumu.(7) Izsaukuma zīme norāda izsaukuma teikumu. \nEs esmu viņš,(8) kas esmu dzīvojis visu šo laiku.(9) (8) Komats atdala pal"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Ieraugot gramatiskās kļūdas,(1) saķer apaļās galveles un spalgi čiepst priekšā:(2) \"(3)Stulbs nav stūlbs,(4) albums nav albūms,(5) mobilais nav nekāds mobīlais!(6) Čiv!(7)\"(8)",
+        "reference": "(1) Komats atdala divdabja teicienu.\n(2) Kols ievada tiešo runu.\n(3) Pēdiņas atdala tiešo runu.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala vienlīdzīgas teikuma daļas.\n(6) Izsaukuma zīme norāda izsaukuma teikumu.\n(7) Izsaukuma zīme norāda izsaukuma vārdu.\n(8) Pēdiņas atdala tiešo runu.",
+        "generated": "\"(9)Kāds ir šis stulbs?(10)\"(11) \"(12)Kāds ir šis albums?(13)\"(14) \"(15)Kāds ir šis mobīlais?(16)\"(17)\n(1) Komats atdala vienlīdzīgas teikuma daļas.\n(2) Kols atdala vienlīdzīgas teikuma daļas.\n(3) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(4) Komats atdala vienlīdzīgas teikuma daļas.\n(5) Komats atdala vienlīdzīgas teikuma daļas.\n(6) Izsaukuma zīme norāda izsaukuma teikumu.\n(7) Izsaukuma zīme norāda izsaukuma teikumu.\n(8) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(9) Komats atdala vienlīdzīgas teikuma"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Klau,(1) vai tagad arī uz palodzes negrabinās viena zilzīlīte?(2) ",
+        "reference": "(1) Komats atdala izsaukuma vārdu.\n(2) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "1). Komats atdala vienlīdzīgus teikuma locekļus.\n(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Jautājuma zīme norāda jautājuma teikumu. \nSavukārt,(1) ja jūs vēlaties,(2) varat arī izvēlēties,(3) ka viņš būtu jūsu dārgākais.(4) 1). Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Komats atdala vienlīdzīgus teikuma locekļus.\n(3) Komats atdala vienlīdzīgus teikuma locekļus.\n(4) Punkts norāda teikuma beigas. \nSavukārt,(1) ja jūs vēlaties,(2) varat arī izvēlēties,(3) ka viņš būtu jūsu dā"
+      },
+      {
+        "instruction": "Balstoties uz latviešu valodas interpunkcijas un sintakses likumiem, īsi izskaidro katras pieturzīmes lietojumu dotajā tekstā.",
+        "input": "Ko,(1) ko viņa tur čiepst?(2)",
+        "reference": "(1) Komats atdala vienlīdzīgus teikuma locekļus.\n(2) Jautājuma zīme norāda jautājuma teikumu.",
+        "generated": "(1) Komats atdala vienlīdzīgus teikuma locekļus.(2) (3) \"(4)Kāds mani mīl?\"(5) viņa izrunāja.(6)\n(1) Komats atdala palīgteikumu.\n(2) Punkts norāda teikuma beigas.\n(3) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(4) Pēdiņas atdala palīgteikumu.\n(5) Pēdiņas atdala palīgteikumu.\n(6) Punkts norāda teikuma beigas. #1\n(7) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(8) Punkts norāda teikuma beigas.\n(9) Pēdiņas atdala vienlīdzīgas teikuma daļas.\n(10) Punkts norāda teikuma beigas.\n(11) Pēdiņas atdala vien"
+      }
+    ]
+  }
+]
