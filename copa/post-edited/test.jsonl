@@ -164,7 +164,7 @@
 {"premise": "Skolēns ieradās klasē izmircis.", "choice1": "Viņa lietussargs bija salauzts.", "choice2": "Viņa velosipēds bija nozagts.", "question": "cēlonis", "label": 0, "idx": 163}
 {"premise": "Datora ekrānā kursors pārvietojās.", "choice1": "Lietotājs noklikšķināja uz peles.", "choice2": "Lietotājs pabīdīja peli.", "question": "cēlonis", "label": 1, "idx": 164}
 {"premise": "Autovadītāja brauca pa apvedceļu.", "choice1": "Uz galvenā ceļa bija noticis negadījums.", "choice2": "Viņa sekoja kravas automašīnai sev priekšā.", "question": "cēlonis", "label": 0, "idx": 165}
-{"premise": Es pakāru slapjo veļu uz veļas auklas ārā.", "choice1": "Veļa izžuva.", "choice2": "Veļa notraipījās.", "question": "sekas", "label": 0, "idx": 166}
+{"premise": "Es pakāru slapjo veļu uz veļas auklas ārā.", "choice1": "Veļa izžuva.", "choice2": "Veļa notraipījās.", "question": "sekas", "label": 0, "idx": 166}
 {"premise": "Sieviete uzlika saulesbrilles.", "choice1": "Saule bija spoža.", "choice2": "Viņa izsauca taksometru.", "question": "cēlonis", "label": 0, "idx": 167}
 {"premise": "Vīrietis raudzījās nakts debesīs.", "choice1": "Viņš vēlējās, kaut būtu vasara.", "choice2": "Viņš domāja, ka tas ir skaisti.", "question": "cēlonis", "label": 1, "idx": 168}
 {"premise": "Es jutos pārgurusi.", "choice1": "Es agri aizgāju gulēt.", "choice2": "Es paliku nomodā visu nakti.", "question": "sekas", "label": 0, "idx": 169}
