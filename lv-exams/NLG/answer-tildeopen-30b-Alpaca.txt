@@ -1,0 +1,20 @@
+tildeai_tildeopen-30b
+Lai arī abi teksti ir par dzejnieku Aleksandru Čaku, tomēr tiem piemīt atšķirīgs žanrs – pirmajā tekstā ir iekļauts romāna fragments, bet otrais teksts ir pētnieciska rakstura. Romāns “Čaks” vēsta par Aleksandra Čaka dzīvi, savukārt Silvijas Radzobes raksts “„Kosmopolītu” lieta un Aleksandrs Čaks” atspoguļo 1949.–1950. gadu notikumus, kad daudzi literāti tika apvainoti kosmopolītismā un buržuāziskā nacionālismā, tajā skaitā arī dzejnieks Aleksandrs Čaks.
+Pirmajā tekstā tiek aprakstīts Aleksandra Čaka darbs laikraksta “Cīņa” kultūras nodaļā, viņa darba kolēģu viedokļi par viņu kā formālistisku dzejnieku un tas, ka viņš nav bijis Komunistiskās partijas biedrs. Tāpat romāna fragmentā ir pieminēts arī 1948. gada notikums Rakstnieku savienībā, kad Aleksandrs Čaks saņēma kritiku par savu darbu “Divi draugi”. Turpretim otrajā tekstā tiek izklāstīts, kāda bija Aleksandra Čaka dzīve un rakstura iezīmes – viņš bijis talantīgs dzejnieks, bet reizē viņam piemitusi arī bailes no Padomju Savienības varas iestādēm.
+Abiem tekstiem ir raksturīgi līdzīgi motīvi par to, ka Aleksandrs Čaks baidījās no Padomju Savienībā pastāvošās politiskās iekārtas. Pirmajā tekstā šīs bailes izpaužas kā nespēja uzrakstīt labu darbu laikraksta “Cīņa” kultūras nodaļai un saņemt pārmetumus Rakstnieku savienības sanāksmē, turpretī otrajā tekstā ir aprakstīts tas, ka Aleksandrs Čaks bija spiests iestāties Komunistiskajā partijā, lai gan viņš to nevēlējās darīt.
+Pirmajā tekstā autors Valdis Rūmnieks un Andrejs Migla lieto aprakstošu stilu un pievēršas Aleksandra Čaka ikdienas dzīvei, savukārt otrajā tekstā Silvija Radzobe raksta zinātniskā stilā un balstās uz dokumentāliem avotiem – laikrakstu rakstiem, liecībām u.c., lai atklātu 1948.–1950. gada notikumus Padomju Savienībā saistībā ar kosmopolītismu.
+Kopumā abi teksti ir saistīti, jo tie vēsta par vienu un to pašu personu – Aleksandru Čaku –, bet atšķiras žanrā: romāna fragments pirmajā tekstā un pētnieciska rakstura darbs otrajā tekstā. Abi darbi atklāj arī atšķirīgas nianses dzejnieka dzīvē – piemēram, pirmo tekstu var uzskatīt par biogrāfisku, kamēr otrais ir dokumentāla hronika ar komentāriem.
+
+0.91 tok/sec
+
+•
+
+554 tokens
+
+•
+
+52.77s to first token
+
+•
+
+Stop reason: EOS Token Found
